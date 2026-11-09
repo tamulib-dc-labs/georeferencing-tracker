@@ -1,5 +1,6 @@
 let statusData = null;
 let currentFilter = "all";
+const openManifests = new Set();
 
 const app = document.getElementById("app");
 const summaryEl = document.getElementById("summary");
@@ -85,7 +86,11 @@ function render() {
 
       const details = document.createElement("details");
       details.className = "manifest";
-      details.open = currentFilter !== "all";
+      details.open = currentFilter !== "all" || openManifests.has(manifest.id);
+      details.addEventListener("toggle", () => {
+        if (details.open) openManifests.add(manifest.id);
+        else openManifests.delete(manifest.id);
+      });
 
       const summary = document.createElement("summary");
       const incompleteBadge = manifest.incomplete
