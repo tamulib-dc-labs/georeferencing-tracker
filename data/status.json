@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:30:52.828Z",
+  "generatedAt": "2026-11-09T11:41:06.580Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -10883,8 +10883,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/f19d961b-c92a-4633-a144-c94df15c1ed5/iiif/canvas/p1",
               "label": "1 of 2 images: Colton's Texas",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0a7%2Fimage-1607542-a-8cf2ec98-1b40-49a5-8339-101ba96580a0.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/5f08df6cfa4214f2",
               "hasMap": true,
               "notes": ""
             },
@@ -59787,8 +59787,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/be770dc8-489f-4d95-8ef1-58e1ad2d4d94/iiif/canvas/p1",
               "label": "1 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/64e%2Fimage-2929298-2009-a-d912923f-8be7-47e3-b87f-4b29f254ab33.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/9aabfc4f96e59014",
               "hasMap": true,
               "notes": ""
             },
@@ -59796,8 +59796,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/be770dc8-489f-4d95-8ef1-58e1ad2d4d94/iiif/canvas/p2",
               "label": "2 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/71d%2Fimage-2929298-2009-b-da9242ba-ee41-47b7-b692-2a5885bb9ba9.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/721d8b9aa8c27109",
               "hasMap": true,
               "notes": ""
             }
