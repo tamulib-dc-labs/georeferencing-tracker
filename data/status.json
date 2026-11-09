@@ -59614,7 +59614,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/8e1%2Fimage-5376627-a-7b0d77ac-3a8e-4b3f-b816-d9ebcfd099d3.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -59623,7 +59623,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/d27%2Fimage-5376627-b-983a31a6-c5e1-4668-bbbd-13c8c41af477.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": false,
               "notes": ""
             }
           ],
@@ -59714,7 +59714,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/157%2Fimage-2929298-2007-a-34acc774-ea5c-4711-82ab-dc7b22421088.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -59723,7 +59723,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/ade%2Fimage-2929298-2007-b-60b1dddc-4f92-4df0-878c-79600e5887ca.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -59739,7 +59739,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/1fc%2Fimage-2929298-2006-a-0fb76b28-e02d-48d0-a1df-53a2f6b41848.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -59748,7 +59748,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/134%2Fimage-2929298-2006-b-cf36d6bd-5a38-4821-83b0-f2db163d40ba.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -59764,7 +59764,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/27c%2Fimage-2929298-2010-a-96b5ecad-b1a6-4f23-9d8b-3ad2b5f24aae.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -59773,7 +59773,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/331%2Fimage-2929298-2010-b-b04cdee1-6dd0-4472-b4ca-93a900a2938c.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -59789,7 +59789,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/64e%2Fimage-2929298-2009-a-d912923f-8be7-47e3-b87f-4b29f254ab33.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -59798,7 +59798,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/71d%2Fimage-2929298-2009-b-da9242ba-ee41-47b7-b692-2a5885bb9ba9.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -59839,7 +59839,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/7c9%2Fimage-5376556-a-6027d110-faf5-4eaf-96a0-9ccc3855c675.jp2/full/240,/0/default.jpg",
               "georeferenced": true,
               "annotationId": "https://annotations.allmaps.org/maps/fcc3647e3a02c4b2",
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
