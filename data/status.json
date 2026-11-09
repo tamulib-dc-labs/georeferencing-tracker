@@ -15,7 +15,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/200%2Fimage-g5701-a5-1564-m86-a-4cf2053d-f6c2-4404-8f08-c2b84320b3fd.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -24,7 +24,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/1e8%2Fimage-g5701-a5-1564-m86-b-16526a19-014f-4741-a067-214305ff34fe.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": false,
               "notes": ""
             }
           ],
@@ -40,7 +40,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/7a2%2Fimage-g1851-b53-1648-29e78553-0fa8-4887-9185-e2e838fe9468.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -56,7 +56,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/264%2Fimage-g8234-t2-1575-b7a-676dd865-4c3c-4b3e-a3d3-47dc2eb7d40b.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -65,7 +65,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/a6c%2Fimage-g8234-t2-1575-b7b-023fa3a5-a900-4fee-b4dc-4365a68bf2e5.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": false,
               "notes": ""
             },
             {
@@ -74,7 +74,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/bd9%2Fimage-g8234-t2-1575-b7-w-7152ec82-8ae0-4e9f-b2f0-62472375927f.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": false,
               "notes": ""
             }
           ],
@@ -90,7 +90,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/be7%2Fimage-g6030-1701-w36-3247e3f0-aa92-484e-b98f-0a0229354db5.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             }
           ],
@@ -106,7 +106,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/7c8%2Fimage-g8631-e42-1619-m47-a-07ffa9b1-0f2b-4c7a-bfb4-524972630fcb.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": true,
               "notes": ""
             },
             {
@@ -115,7 +115,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/286%2Fimage-g8631-e42-1619-m47-b-411b4a9d-ffce-447f-93d6-030748ec9aa6.jp2/full/240,/0/default.jpg",
               "georeferenced": false,
               "annotationId": null,
-              "hasMap": null,
+              "hasMap": false,
               "notes": ""
             }
           ],
