@@ -1,0 +1,2297 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Collection",
+  "id": "https://digitalcollections.library.tamu.edu/do/28f1fcca-d1aa-4b8a-91da-457ff2237c53/metadata/iiifmanifest3collection/default.jsonld",
+  "label": {
+    "en": [
+      "World War II Service Maps"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Cushing Memorial Library and Archives, Texas A&M University"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/28f1fcca-d1aa-4b8a-91da-457ff2237c53",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Explore World War II Service Maps from Texas A&M Libraries"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "summary": {
+    "en": [
+      "While maps form vital pieces of military planning, operations, and assessment a different application arose during the latter part of the Second World War. Known as service unit maps, unit route maps, pictorial maps, or triumphal maps, maps like these were produced to maintain and convey units\u2019 experiences of their services and routes across the North African, European, and Pacific theaters. Undoubtably, there was also an aspect of maintaining or boosting morale and sense of purpose."
+    ]
+  },
+  "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>While maps form vital pieces of military planning, operations, and assessment a different application arose during the latter part of the Second World War. Known as service unit maps, unit route maps, pictorial maps, or triumphal maps, maps like these were produced to maintain and convey units\u2019 experiences of their services and routes across the North African, European, and Pacific theaters. Undoubtably, there was also an aspect of maintaining or boosting morale and sense of purpose.</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Collecting Area"
+        ]
+      },
+      "value": {
+        "en": [
+          "Military Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "http://rightsstatements.org/vocab/CNE/1.0/"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c29749fa-f933-4c12-b3d4-b9d73b5a7b2a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "&amp;quot;Hell on wheels&amp;quot; 1942-1943-1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c8f%2Fimage-service-maps-0135-0001-24a8af2c-3735-4636-9a80-e59f3d06f61d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/382327be-7403-4961-be5d-b7f41bb899bd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "&amp;quot;Hell on wheels&amp;quot; war against the Axis, 1942-1943-1944-1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2b5%2Fimage-service-maps-0123-0001-4dcccdcb-478f-4827-8b3c-36f98e549c4b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a3e47105-f577-4235-ab5c-1a9b26e0bb8c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "&amp;quot;Load up&amp;quot; with the 2nd Bn. 417th Inf. 76 Div."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f71%2Fimage-service-maps-0099-0001-72fd432e-27b4-409b-942a-62b1ffc14419.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/be83cb20-46cb-464d-9d73-809e9066579b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Untitled manuscript Pacific operations WW2 route map]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0a8%2Fimage-service-maps-0136-0001-8b8d86da-7342-4aca-ae8c-4d7a165c1db7.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/68c92d5f-425b-4eea-8403-7b6c8f0963fd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "102d Infantry Division, The Ozarks"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7c8%2Fimage-service-maps-0062-0001-d848f91e-53e4-47ba-96f8-903641a3e23f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ac5ebe3d-7355-4f0d-8b71-b3a5493fb1d4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "103rd Evacuation Hospital (SM)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3e2%2Fimage-service-maps-0103-0001-545da45b-f0fb-44cb-b94b-23f52592321a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/adfebaa6-694d-4983-be46-317f039ca376/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "105 Eng&amp;#039;r. Combat Battalion, in action from June 13, 1944 to May 9, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/279%2Fimage-service-maps-0037-0001-cd159622-b2f0-4929-a724-4ec37ae32b3c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/39badfed-2ae6-48a9-b707-4f28eb9746a0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "106th Evacuation Hospital, Semi-Mobile, activated - May 20, 1943, arrived in France - July 18, 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3d1%2Fimage-service-maps-0108-0001-7b74e7ed-4405-431c-8f5e-94deb3f515d4.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/36df7f6f-5d50-4bb2-8591-d1f0b619719d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "11 G-2 after action report. March 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/1b6%2Fimage-service-maps-0052-0001-a19362fc-5c0b-4686-9539-9768d01a2093.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/91793385-f3cd-4e1d-90c5-d637ebc35c1f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "1104 Engineer Combat Group, from &amp;quot;D&amp;quot; Day to the Elbe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/297%2Fimage-service-maps-0101-0001-2e10967b-31cb-4cbb-a0ab-26528a7f77ff.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0902a82f-81fe-440a-8731-9632bf0573ae/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "1109th Engr. Combat Group command posts, France - Germany, 17 June 1944 - 9 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0019-0001-c3f74d5d-4387-427d-adec-3e2b30224a7d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6bdc18a1-7db8-4dd8-9987-1628680a2866/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "1115th Engineer Combat Group operations from Omaha Beach to the Elbe River"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c72%2Fimage-service-maps-0087-0001-124283ce-cdf4-4120-a79c-113fa69cefd1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/24258306-de9d-45d6-ae89-051871f1a3d9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "1150 Engineer Combat Group in the European Theater, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/6ad%2Fimage-service-maps-0020-0001-6fad1454-1e4a-482b-bb91-9847a524d117.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5da20b25-f97c-4438-9b3c-7db8766032d0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "11th Armored G-2 after action report. April 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/74e%2Fimage-service-maps-0112-0001-2cd87cf1-7052-470b-974a-d8c3b5fc4848.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3c704a0a-cc34-427c-9ee6-fe878656d7f0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "13th Armored (Black Cat) Division : a history in pictures, Jan - May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/006%2Fimage-service-maps-0035-0001-500ade31-b980-46fa-be39-ed0bbfe4506e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d8292902-8a1e-4cda-9307-bb9ff0e78f4c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "165 Engr. Combat Battalion command posts France - Germany, 27 July 1944 - 27 July 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/cf5%2Fimage-service-maps-0030-0001-e24b6f45-b486-4359-a8e5-9549eca9bafc.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2c4cf8b7-3d8e-402b-af69-d3f597c849bc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "202nd Field Artillery Battalion, France - Germany, 2 July 1944 - 6 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2ad%2Fimage-service-maps-0039-0001-554da473-3ea4-4e7d-b6ce-e3e765cd8d9e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8cd273c7-f23a-46e3-9e2e-202ad19e9950/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "208 Engineer Combat Bn."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0b9%2Fimage-service-maps-0044-0001-44b16f4c-60cd-424e-92a0-c95d55e9a066.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/82fe390d-4808-4196-8568-801593e4abef/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "215 F.A. Bn. combat diary, September 1945 - 1945 June"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/435%2Fimage-service-maps-0038-0001-b849d767-5db9-4038-a3f0-810e5a9690fc.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1f9ac986-5107-4dba-bff0-ae02565aa4c2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "282 Engineer Combat Battalion route of march, 2 November 44 - 2 November 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/626%2Fimage-service-maps-0102-0001-db704c99-48af-435d-97f2-a2b5079d2340.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7d48f534-0b2b-4952-acbd-604a94c89644/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "292 Engineer (C) Battalion in action from England to the Elbe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bc4%2Fimage-service-maps-0022-0001-c827e04c-ab57-4092-8b51-33163fc69fb3.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9279c0ed-0c20-446d-ae8e-94670f6acfee/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "297 Engr. Combat Bn"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/106%2Fimage-service-maps-0064-0001-a9536322-7ff6-429c-8569-a08559638197.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/31f9d959-82d5-4e19-b898-674cbfda909f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "2o Dragons Campagne 1944-1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/48f%2Fimage-service-maps-0141-0001-429dfa0b-a8be-4159-a672-2f2b6fa259a0.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d9054428-0a39-4ea6-bc8f-8ee4ba56b7c7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "31st Engr. Combat Battalion command posts, Europe, 3 Nov. 1944 - 8 July 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a3f%2Fimage-service-maps-0023-0001-0a520c33-020c-487a-88c2-47183669de40.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c10d6a35-02ed-48a0-aba5-a8ff4911dd82/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "355th Infantry Regiment, Col. Jesse T. Harris, Commanding : march through Germany"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3b9%2Fimage-service-maps-0016-0001-6aece165-3ab5-41fb-a034-9cc709972eb9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/24ccf41e-2e65-4561-9094-4081e506593a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "42 Inf. Rainbow Div."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/545%2Fimage-service-maps-0107-0001-fa629d89-6295-4347-8eb9-fac406f07eb1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9490f8ff-c86f-4c8b-9306-cb926e46ca9a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "5 suddenly and violently!"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b43%2Fimage-service-maps-0074-0001-b26002d2-c039-41e2-929d-21709173bad3.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fb90e55b-d435-47af-a189-9215a7995cb5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "509th Military Police Battalion European path with First U.S. Army World War II, 1941-1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/1bf%2Fimage-service-maps-0065-0001-297f2fcf-ccc9-4a14-805e-1619468f450e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ad5a2b18-d3d7-41ee-9faf-771ac81a0d69/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "517 Attack"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/53f%2Fimage-service-maps-0029-0001-bf3847ea-08f6-423d-8173-bfbbf9bc4182.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d3a7e067-ffcb-460c-bcfc-b22a4fef33b4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "535th AAA Automatic Weapons Bn travels 1944-45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e22%2Fimage-service-maps-0066-0001-bf74b2ce-f380-4a67-b11f-a435f32a4b8a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ece6b0b4-6c53-4602-812a-bbe6f1bb113b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "53rd Reinf. Bn. operations map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c29%2Fimage-service-maps-0134-0001-622316d4-e402-4c5c-ae03-66b2503db12e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/00803c9e-da7a-4112-a4ba-0963a6b259bf/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "549 AAA Battalion"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/562%2Fimage-service-maps-0122-0001-72dc046e-7699-42d1-b647-df8e758ceb98.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5a2bf18e-b9ff-445a-acfb-e9d57bdb7c22/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "66 Infantry Regiment with the 71st Infantry Division, European Theater of Operations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/140%2Fimage-service-maps-0012-0001-07ef8f74-b736-4c16-986b-f9e21ac07718.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/61e578ef-d1eb-45f4-80fd-c592b2564d18/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "696th Armored Field Artillery Battalion : Northern France, Ardennes, Rhineland, Central Europe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f5d%2Fimage-service-maps-0124-0001-4e50837a-be41-4b77-9cb2-389e0c7b69fb.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/22b76b6e-5b82-43aa-9e63-607b6f1460ec/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "6th Ordnance MM Co., in the European War, 6 June 44 - 8 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/9ce%2Fimage-service-maps-0118-0001-02a2750f-f5be-4a89-8db9-ba4c5d5b5632.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ca179be8-721f-4cc2-aa78-784dfee2696a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "70th Tank Battalion combat operations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/9ed%2Fimage-service-maps-0050-0001-a190307d-4d5e-4da5-8fdd-b4a06cb8e6e4.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/033697ec-2219-45c4-9495-4b8b67b2bb08/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "71st Infantry Division - World War II - Europe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/94c%2Fimage-service-maps-0001-0001-4629fd65-e83e-4118-8786-e04413563941.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/61d5d140-cada-497e-b6e0-18780e049ef6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "78th Inf Division &amp;quot;Lightning strikes twice&amp;quot;"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4f4%2Fimage-service-maps-0015-0001-e98f5221-34b8-472f-9afb-1cac996c7bff.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/12fc2a4a-8206-4c66-93c0-f77a239f82ca/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "818th Engineer Aviation Battalion in action"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/fc3%2Fimage-service-maps-0067-0001-1548ef7c-c94d-4013-88ce-f582246fc07a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/eddf2918-8146-46f1-9213-09c08e7fdf9c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "84th Infantry Division, from activation 15 Oct 42, to V-E Day, 9 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0011-0001-ba70f56d-c69c-4d80-bedb-09bf810b9336.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3f74e200-d61d-4059-ba34-91cbe893743e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "88 &amp;quot;Blue Devil&amp;quot; Division occupation force in Venezia-Giulia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c90%2Fimage-service-maps-0013-0001-c594611a-c696-4387-b1bd-a39c5398b0ac.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/15d4caab-915d-40e2-bc4a-28c1ff0571a3/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "ADSEC in action"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bd1%2Fimage-service-maps-0026-0001-d4da4620-c984-4d2b-9e26-6404267c5457.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/43d8e6a4-ee9d-4254-8390-2a233c64a456/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of CC &amp;#039;A&amp;#039; 20th Armd. Div., Normandy to Salzburg, 11 Feb. to the 6 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a8f%2Fimage-service-maps-0131-0001-5bd59698-7cd4-4b4b-9751-c441af237ffb.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a4ed6190-82a7-4154-937e-e49024274b7e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of One Hundred Seventy-Third Field Artillery Group, England to Austria, July 20 1944 to May 8 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/dd8%2Fimage-service-maps-0032-0001-7b7cfdd9-8b8b-4757-9b58-ebdebe83234d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/522ed6f6-855f-4418-b651-4eb5c78090e3/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of the 4th Infantry Division from Utah Beach to the Siegfried Line"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4aa%2Fimage-service-maps-0070-0001-c6895ca3-c0d5-42c3-973e-8293770d55f4.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/070038af-2df6-427f-bfc3-4bbfd2b28488/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of the 5th Armored &amp;quot;Victory Division&amp;quot;, Normandy to the Seine River, 1 August to 29 August"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/772%2Fimage-service-maps-0049-0001-6893c4f6-4ada-4e41-922f-d5c44dae03b9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/17123fa3-db39-4b8d-9c4b-bbb01c84e2cc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of the 5th Armored, Victory Division, Rhine River to the Elbe, March 31 to April 23, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/53d%2Fimage-service-maps-0113-0001-0d67fa7a-5c86-4cd3-8668-8cf6759b3d0c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/761a47f4-1669-4632-a58d-ee4b3001178a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Advance of the XV Corps of the Third United States Army, Seine River to the Moselle River, 30 August to 15 September 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8b2%2Fimage-service-maps-0002-0001-bb3a878d-91f5-437c-bcea-2ad0c5375ba4.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/edf1ed32-bd8a-4122-8a41-8b3f5119f20d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Amphibian advance by the 533d Engr. Boat &amp;amp; Shore Regiment, Nov. 1943 to Oct. 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/638%2Fimage-service-maps-0055-0001-559f2323-b76f-4a34-b66b-d9d7a81c0e48.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/644fab9b-8e00-4899-a065-28ad50482450/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Another year with the 951st, or, &amp;quot;Like ah done tol&amp;#039; yu befo&amp;#039;&amp;quot;"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b29%2Fimage-service-maps-0059-0001-a0e86d98-c42e-41ab-bddd-d1665e78e7a8.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0f3c971f-3990-43d0-b0d2-e2b3ca06aa2c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Antiaircraft dispositions Rhine River crossing of XV Corps, Seventh United States Army, 26th March to 28th March 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/abe%2Fimage-service-maps-0095-0001-bcc7abca-3346-49e8-9234-dc83e7aabc45.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cba77f30-2eb0-4ee9-befc-3a34f480cccc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Battle Route of the 90 Inf. Div. in the European Theater of Operations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d5b%2Fimage-service-maps-0010-0001-3de62ab0-254c-484a-9c44-70b2a91d846a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9e4ec840-a1d5-4395-916a-153c8b8dceab/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Battle route of the XII Corps in the European Theater of Operations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4e7%2Fimage-service-maps-0096-0001-824f70f4-39c9-4b72-ad07-cf653b9c8c79.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7b3ac27e-e2e7-45c4-96c6-f47786c3d43b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Belgium, Holland, Germany ; Deutschland kaput : the death of fascism in Europe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/cab%2Fimage-service-maps-0048-0001-0e02622b-1985-4a56-9b2e-80136dfe7cc8.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/06485bc1-9017-4b02-82e8-946e484634bb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bridges to Berlin, 1146 Engr. C. Grp"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0b8%2Fimage-service-maps-0110-0001-f6c931cb-8d05-47c6-8b68-ae48173f2edc.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/241d2e81-7023-48a7-8edd-30a70d7fb80e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Campaigns in Italy of 111th Engineer Combat Battalion, Sept. 9, 1943 to Aug. 11, 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/18c%2Fimage-service-maps-0058-0001-758a6ffc-a706-4dad-ae4d-3dbb8131f67c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d83deada-61de-4c89-9a2a-921810e3c7c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Campaigns of the 36th Infantry Division in World War II. Campaigns in Italy"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/040%2Fimage-service-maps-0034-0001-dd4fd75e-0d16-4d7c-8694-2bb8a9093be9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cf92962c-4bcf-402b-959f-2df8059cce00/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Campaigns of the 9th Armored Div in Western-Europe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/72a%2Fimage-service-maps-0047-0001-0a8fd32b-281f-454c-bd1f-b2aade5e9588.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/81b3d22b-4bf8-46ed-8537-89321b36c30d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "CC &amp;quot;B&amp;quot; 3A battles of Normandy, N. France, Belgium, &amp;amp; Rheinland, July 7 - Sept 15 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c6e%2Fimage-service-maps-0056-0001-7da0d106-dca7-41e6-92df-567f63551b08.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f04698d1-dbe4-452f-b1e8-035129f05162/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "European Theatre, 1340th Engineer Combat Battalion"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/600%2Fimage-service-maps-0045-0001-6638baed-cf85-47bf-8478-bf1b97343ac5.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6b0a31e0-5839-4a1e-a660-f9a06124b76a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "First European Civil Affairs Regiment in the European Theater of Operations, 1944 - 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/52b%2Fimage-service-maps-0104-0001-6802d9d3-3c60-46d3-91a9-d15159003a7a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f8a51f69-502f-49dc-8f07-60d0dd5314fa/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "First Tank Destroyer Group : victory greetings"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/6f1%2Fimage-service-maps-0028-0001-1bb1c434-ea27-49cd-a209-b02db29344f5.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d4521aac-da6d-4a29-aa68-ed8d5b6506b7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Graphical history of 987th F.A. Battalion, 155mm self propelled guns"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b9c%2Fimage-service-maps-0121-0001-116b833e-31de-458f-b144-5928e8d7940a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9b540d27-b6f0-4617-a102-68fe9540de67/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Hell Point Battle of August 21st, 1942 Fought by the 2nd BN. and the 1st BN. First Marines Guadalcanal"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/00f%2Fimage-service-maps-0140-0001-a2f3fb9c-221e-407c-ada6-fbe71dac17ba.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/183f45aa-3733-4de6-9d6c-3dc3025f2565/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "History 228 F.A. Group in E.T.O., 1944-45-?"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d05%2Fimage-service-maps-0129-0001-8af3a359-df71-42d0-9019-9bb8e91cbdce.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a67537eb-dfbe-4621-aa18-e275513e36d6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "III Corps campaigns"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/179%2Fimage-service-maps-0007-0001-65be1be5-e6b4-4b07-be60-69ac9f592280.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/058d46bc-3011-4e5d-889a-a11fe472feec/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "III Corps reference"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/27e%2Fimage-service-maps-0097-0001-8661b1c8-b991-460e-b7c6-afcf5c55297a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/02758406-f4ec-40ec-8019-90afdf05e3bb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Itinerary 816th Eng. Avn. Bn. from August, 1842 to August, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/056%2Fimage-service-maps-0053-0001-7b44d641-05e4-4b62-82fb-0e8d3159ae38.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f06717c3-afdb-46f9-b43b-c67dae37acb2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Major operations of the 1106th Engineer Combat Group from 1 Nov. 1944 to 20 Apr. 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a8d%2Fimage-service-maps-0024-0001-13a0c6a8-15ca-42fc-a689-2941223a0229.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7b08a9a1-3a74-4577-a027-ea48d1429c21/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Major operations of the 1120 Engineer Combat Group, 6 June 1944 - 19 March 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2ff%2Fimage-service-maps-0054-0001-eaca6fbc-c259-4d0a-a736-a1f545d837c1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f89a9119-4bb6-45af-a7be-fa67216f2f59/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Major operations of the 25th Armored Engineer Battalion, 23 July 1944 - 8 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c80%2Fimage-service-maps-0111-0001-6c4c493f-b267-4d54-869a-f8ff3b2557c9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ec094063-9945-465f-98cb-746405404282/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Major Operations of the 486th Antiaircraft Artillery (AW) Batallion (SP) 23 June 1944 - ( May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0d1%2Fimage-service-maps-0139-0001-6aa704f5-6fea-4c7d-b596-83c0404f388c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1513dbd2-1e7b-4b31-9b03-99747944584a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Major operations of the Thirty-sixth Armored Infantry Regiment, 18 June 1944 - 25 April 1945 : Normandy, Northern France,\u2026"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/950%2Fimage-service-maps-0130-0001-9ffae0f9-6cb2-48fc-850c-4a9c9954951f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0c36cb89-9b8d-4e3c-9807-ae99c9018b53/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map history of the 1st Armored Division"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bc7%2Fimage-service-maps-0069-0001-c7e00483-6543-4047-b867-0f77783b769b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/27283fe3-6005-411b-90dd-3f29494efa7a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "March to victory, 1277th Engineer Combat Battalion"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3db%2Fimage-service-maps-0083-0001-73eb6710-6d5e-4783-9c2d-2e68bcade58b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/64240ca7-004d-47e4-88a0-36227cba7459/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Merry Christmas 1944 V Corps Artillery"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/08c%2Fimage-service-maps-0031-0001-17d360f0-31b9-4057-878f-1400d6991f62.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cec1a505-0047-43ed-8b94-76465544c316/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Movements of 71st Armored Field Artillery Battalion and Btry. &amp;quot;B&amp;quot; 387th AA (AW) Battalion, part of 5th Armored Division, July\u2026"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d66%2Fimage-service-maps-0051-0001-324942ed-1935-4ecf-b29a-0a18381a95fd.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/263be564-4132-450c-b314-7d75e4c5a586/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations against Germany World War II, 188th Field Artillery Battalion, 155mm howitzer, trac-drawn, First U.S. Army 1944-45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/9b0%2Fimage-service-maps-0041-0001-d912ac4a-0de4-4132-b23e-780652e7a46a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/74d57289-bf01-47b6-8cc5-ebb8b108358a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations of 49th AAA Brigade in Europe, June 6, 1944 to May 9, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3f7%2Fimage-service-maps-0040-0001-846a82af-2e0e-4d10-bd3d-d5b0f90cbc26.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/28385ee7-5897-4073-a275-55e96c003856/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations of First United States Army in Europe, June 6, 1944 to May 9, 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/5ba%2Fimage-service-maps-0072-0001-7d651dd9-be4f-4600-9a22-853fac2c69d0.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bd0b1c81-b7a5-4df8-90e0-d81363b77240/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations of the 100th Infantry Division in the European Theater of Operations, 1 November 1944-11 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7b7%2Fimage-service-maps-0075-0001-d240cfe4-aba8-417b-809c-e4e86bce771c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/97d1b74d-7ad6-4260-9797-97647b048a96/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations of the Timberwolf Division in Europe, Sept 44 - May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/66c%2Fimage-service-maps-0027-0001-a1ca3bd1-c43c-4568-a87c-918e9f8ceaed.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/13ca1696-fcd2-4fab-8187-574e56372756/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Operations of the XV Corps of the Seventh United States Army in the break-through of the Saverne Gap and the capture of\u2026"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/9ee%2Fimage-service-maps-0006-0001-69e1f371-2874-4798-9c5a-ac612e4f5218.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f6e5d60b-4293-46d0-899c-1b5526828793/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Over the Rhine with the 79th Infantry Division, 17 Feb to 9 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3fc%2Fimage-service-maps-0117-0001-b03d53bb-7c16-4c07-98fb-34814be9ffd7.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/19e5d113-4153-4282-91ce-eba9a71977d6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Philippine campaign"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/afe%2Fimage-service-maps-0043-0001-e4adfe26-37aa-4fbc-9e6c-88cc4af9d981.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/195162a1-2662-4bcc-a31f-9e0178fcb670/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Progress of the 4th Infantry Division from Luxembourg to Bavaria"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4d0%2Fimage-service-maps-0071-0001-d45bd3aa-bf71-408b-a9fb-9f59be9e0ad5.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/31829fae-a8f9-481d-8c9e-0b5cafa53a9e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Roer River crossing at Julich by 1104th Engr. Combat Group"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/fa7%2Fimage-service-maps-0025-0001-45dc67dc-bfc4-45ae-a445-ee86412f38a1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/946ade33-a872-4e90-b779-d6d7f25632f7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Roll on 110th : route of march on the continent, 22 July 44 to 9 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0b2%2Fimage-service-maps-0063-0001-bd0bd6e1-2f81-475c-b126-64a6971cfb5f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/25b66b08-c0ce-4a13-bf46-ba77141948cb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of B Company, 136 Ordnance Maintenance Battalion, France-Germany, 22 November 1944 to 6 May 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/498%2Fimage-service-maps-0042-0001-05062a7e-62f6-4e7e-bdd1-d96c693e894d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c217f24b-24f0-4f9c-b9e6-9dc9405503ae/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of E Company 344th Engr. Regt. during World War II, 1 July 1942 - 1 July 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e3a%2Fimage-service-maps-0105-0001-254a6865-2b22-41e3-b2c4-5af728592990.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/339c65a1-1a40-482f-becb-e4f389b9bbba/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of the 1st Bn., France, Belgium, Holland, Germany"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/668%2Fimage-service-maps-0009-0001-96b7a7fa-f677-433d-b957-ad604a907184.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ba490d59-9d28-48af-a9a1-508a9004fe08/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of the 89th : France-Luxembourg-Germany"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/011%2Fimage-service-maps-0132-0001-be8d80f4-3bf4-4092-90c5-e9e7a3256da7.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ba57c85e-ccd8-4c60-8eff-5423c537ddc4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of the Golden Acorn Division : France, Luxembourg, Belgium, Germany and Czechoslovakia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/711%2Fimage-service-maps-0018-0001-2c678e61-8cab-4250-b6cf-4d958c52310c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/593cbf5e-ef7b-46cd-8c95-b60864af5026/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Route of the Seven Five Zero in the E.T.O."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d95%2Fimage-service-maps-0046-0001-2aea7925-fec4-49c9-b97f-595250c19339.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0a17e64e-6f61-42d3-ac4a-255f4a79b706/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Routes and locations 97 Inf Div ETO"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4a9%2Fimage-service-maps-0120-0001-f11fb347-f10c-4d5c-b889-860cda5e4946.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cf08b27f-2636-43cd-b4f8-9c8180a33444/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Routes of and places visited by USS LST 461, commissioned: February 18, 1943"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/5d3%2Fimage-service-maps-0125-0001-b4a8f129-166b-49b4-ba53-71d44ec6221b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ed7b620e-a391-40ea-b033-5d35a2ac1522/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The 29th Infantry Division"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/1b2%2Fimage-service-maps-0127-0001-4759e535-fcdd-4094-b9a7-7c3dcb0238f2.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6354fd7a-49ba-4144-9f41-dd26b2b5f5cc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The 36th Infantry Division campaigns in France, Germany, Austria"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/5da%2Fimage-service-maps-0106-0001-ca0f0875-0cd9-42d9-a06c-3f5088feae85.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d15b3209-9430-4e0b-8725-8ea00f8bcbea/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Blue Ridge path, through France, Luxembourg, Germany, and Austria"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/86c%2Fimage-service-maps-0100-0001-7783060e-fa23-4223-8994-c39548f9f002.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4d801e43-94bf-4f05-bacd-2b71d8d1caf9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Cactus route, 500 fighting miles : France, Germany, Austria, Italy : 11 Nov. 44 - 4 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/ef6%2Fimage-service-maps-0061-0001-d9dc25a3-73be-430e-b451-48947191c725.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/32617542-c4dd-4c2b-8209-6a10b76f82c5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The fighting record of the Blackhawks in World War II"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/13abdb5a-59dd-4707-b3cd-287e2f5111c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Fourth Armored Division"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b50%2Fimage-service-maps-0085-0001-030601d9-564a-4652-82b8-777c47152c97.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4e62cd93-3371-4c20-98fa-72313751a165/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The odyssey of the Fourteenth Infantry Regt. from 7 February 45 to 8 May 45"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/06f%2Fimage-service-maps-0017-0001-83b5ead5-0bff-495a-abba-21ccbf693d22.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/48e51cf8-29b0-43c5-bf59-08658133a1cc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The route of the Ninth Division thru the NATOUSA &amp;amp; ETOUSA : Nov. 8, 1942 - June 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e7acdcdf-2dcc-4ebe-ba55-09551894384d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Thunderbolt across Europe"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/4de%2Fimage-service-maps-0119-0001-9db36afb-5223-4dc5-aff5-29856763b8e4.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2aa8dd57-5d14-44f5-a5e3-e56c7992fd9d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The trails and travails of the 20th Armored Division"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bf7%2Fimage-service-maps-0033-0001-09aec8b4-3624-41e6-966a-a1938cc47dc2.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e7c6ab00-dd75-467b-8e3e-b9a56657e216/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Transportation Corps in the European Theater of Operations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d07%2Fimage-service-maps-0126-0001-eec80865-0227-417b-ba90-d7c6bb82b7b7.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/36eabc1b-51a1-4616-9aad-9cc83c338ada/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The trek of the 5th Armored"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/839%2Fimage-service-maps-0068-0001-affd0eb7-0eb3-48f0-8a64-e91b6fb97383.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e30bf251-71b5-40a6-a81b-5faf3b9e6b7e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Through France with the 79th Infantry Division, 14 June to 29 Aug, 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f27%2Fimage-service-maps-0114-0001-2781dda9-470c-428e-9a12-a2798af400dd.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6b038a2c-ad46-4e2f-8054-045f69d13432/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "To Belgium and back with the 79th Infantry Division, 31 Aug to 25 Oct, 1944"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a5a%2Fimage-service-maps-0115-0001-bfd97684-97e2-4a74-8f61-f721582cfc76.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b29e5a5f-7da7-435a-9709-8fb330acf370/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "To the Rhine with the 79th Infantry Division, 25 Oct to 14 Feb. 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/011%2Fimage-service-maps-0116-0001-96c9f172-7a9f-4704-8eed-f486826755a8.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cc04352a-6541-4fe4-812e-513b95cff58c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Touring Europe with the Timberwolves!"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/32a%2Fimage-service-maps-0021-0001-504243d8-ae77-4e00-9812-bb13a94e7316.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e5dc8bf1-b45b-4dd3-8daa-e64820c00217/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Travels of 70th A.I.B., 20th A.D."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/827%2Fimage-service-maps-0036-0001-679b8b30-c76c-4b86-8746-53d5f59f16ec.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e1323c46-e4e1-48d5-bb3b-414f692fde19/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "U.S.S. Lexington"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c31%2Fimage-service-maps-0057-0001-7bbc3c0b-5dd2-4490-9063-2b9d9189f60f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/db0aea6a-75ed-4b65-9ed2-4b90928424ea/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "VII Corps"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/afb%2Fimage-service-maps-0060-0001-08ffb5cd-512b-4b02-85c9-147830776e6c.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/60d817f9-3847-4508-b996-a03b3619ad80/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "VII Corps"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/530%2Fimage-service-maps-0098-0001-a15e8f36-dae5-4003-a776-5364ea963c67.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6c0102b8-49fe-4d75-934c-0f553ddcd353/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "VIII Corps in European Theater of Operations, 1943-1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2c7%2Fimage-service-maps-0081-0001-cf5a3ede-dbbd-4de7-8c24-1991c9ea14ba.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0830dedc-b2ff-4c1d-893a-36f0422f75e3/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "With the IV Corps in the Italian campaign, June 1944-May 1945 : 325 days of continuous fighting"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bba%2Fimage-service-maps-0003-0001-baa43da9-3e01-4dd4-b4f7-8b7d8154cc57.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2c1cada5-887e-4993-8f6f-8c520473d77b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "World War II log of the U.S.S. Pathfinder : First Voyage Sept. 1, 1942-Oct. 21, 1944 : Second Voyage Dec. 18, 1944-Dec. 1945"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/254%2Fimage-service-maps-0073-0001-017588c9-f068-441f-87e0-ebcec298f4c5.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b59bb36f-a001-4c80-9bad-53a32b3632a2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "World War II, 542nd QM Depot Co. (Supply) in ETO"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/191%2Fimage-service-maps-0109-0001-2995ca1b-7818-42af-b6ab-c5e3dc79ab98.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f7dcb223-ce3f-4c1f-ac5d-12da1f619663/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "XIX Corps in action cracks Siegfried Line"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8e7%2Fimage-service-maps-0093-0001-7cc62dc3-b4e0-4c31-a5c4-35f51b86ff73.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6ca81943-b1ac-458d-ba31-82323eb3cb18/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "XIX Corps in action from Siegfried Line to victory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d3f%2Fimage-service-maps-0094-0001-23430a5c-515e-44e9-a706-46ed439e9353.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/86541739-d820-4b4b-ac03-8c2ae73ad319/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "XXI Corps : activated 6 December 1943, Camp Polk, LA. : England 11 November 1944 + France 27 December 1944 + Germany 23 March\u2026"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e7f%2Fimage-service-maps-0008-0001-567296cf-0b5a-49b1-9523-22efa18aaf29.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    }
+  ]
+}

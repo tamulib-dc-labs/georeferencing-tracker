@@ -1,0 +1,356 @@
+{
+"@context": [
+  "http://www.w3.org/ns/anno.jsonld",
+  "http://iiif.io/api/presentation/3/context.json"
+],
+"type": "Collection",
+"id": "https://digitalcollections.library.tamu.edu/do/70e55051-8789-464f-af00-3436672851f9/metadata/iiifmanifest3collection/default.jsonld",
+"label": {
+"en": [
+"Charting Texas"
+]
+},
+"items": [
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/da21a695-35ac-4d83-864c-4fe1adba04d1/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "[Plan del presidio de San Sabá al de los Adaes y San Antonio de Véxar, comenzando desde el Nuevo Reino de Orleans demarcando…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/e8080e3f-f58d-49e2-bcd4-7a656461828b/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A map of Mexico or New Spain, Florida now called Louisiana and part of California and c" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/0f0896bc-6871-4e89-b67b-5585434e3434/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A new map of Mexico and adjacent provinces" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/422556fa-87d8-4dbd-8968-489ceff3b7f2/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A new map of Texas, Oregon, and California with the regions adjoining" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/76a4652e-a54e-46c9-903b-7fd52224c7dd/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A treatise of practical surveying" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/dc559b29-ba90-44a0-b52d-76d7be22d7ea/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A treatise on surveying: containing the theory and practice, to which is prefixed a perspicuous system of plane trigonometry :…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/7ea36616-4c7a-454e-b67e-8f4a56a19354/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "A.R. Roessler's latest map of the state of Texas : exhibiting mineral and agricultural districts, post offices and mailroutes …" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/8b4c20b9-b247-4107-9299-a053bef6752c/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Amérique Septentrionale" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/29ece70c-d09b-4299-8c9c-b1c3588a123e/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Amérique Septentrionale" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/d66621a8-79ef-46b8-9b6c-8e01081ecde9/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "An account of expeditions to the sources of the Mississippi and through the western parts of Louisiana, to the sources of the…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/daeea8c2-90fc-4c0c-aeaa-df2be5e09f57/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Annexation of Texas to the United States: Message from the President of the United States, in compliance with a resolution of…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/6bbfd7b6-aabd-4677-ae5c-9a4603187dcb/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Appletons' southern and western travellers' guide : with new and authentic maps, illustrating those divisions of the country,…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/1e514f3d-ac5d-4bcf-b64c-99fcb226ab8c/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Atlas moderne: ou, collection de cartes sur toutes les parties du globe terrestre" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/d4b9a9b2-df36-47b4-99ba-c6bfcdab67d4/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Braman's information about Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/ae6db27c-4664-4056-8bc3-3f2bde666f05/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Carte des États-Unis d'Amérique: du Canada, du Nouveau Brunswick, et d'une parte de la Nouvelle Bretagne" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/ed3c5253-5080-42aa-857d-395ee0ccc762/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Carte du Mexique et de la Nouvelle Espagne: contenant la partie australe de l'Amérique Septentle" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/2ec57077-0212-4829-a5a5-e5a1d496aa7d/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Certification of land sale from John Houlihan, on the McMullen and McGloin colony, to Allen Hillway, of New Orleans, January 29…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/6acafca9-b1f6-447a-b13a-8dc6b55bfda9/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Colton's atlas of America: illustrating the physical and political geography of North and South America and the West India…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/f19d961b-c92a-4633-a144-c94df15c1ed5/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Colton's Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/c2954cbf-2ce0-4265-9b26-a8e813182202/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Galveston Bay and Texas Land Company" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/325cb32d-6fc9-4f39-9567-caac9e291f38/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Hispania nova" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/01d9b8c9-c93c-4e2d-bde4-dee1939d09d8/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Holdings: Reports of the Secretary of War: with reconnaissance of routes from San Antonio to El Paso." ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/45d01db3-743f-427f-a460-6ac0b95515d8/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Instructions for range surveys as formulated by the Inter-Agency Range Survey Committee and adopted by the Western Range Survey…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/1800fdd0-d02c-4691-9bfb-c18d4b350e3a/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Karte von Texas, entworfen nach den Vermessungen welche in den Acten der General Land Office der Republic, liegen bis zum Jahr…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/7db26160-1873-4960-8ca8-5e421be35b6e/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Libro mui curioso en que seda noticia, y se explica claramente el modo de observar y lo que deve hacer el Medidor antes de la…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/cb2921c1-9ca0-499c-95c8-0ea867300e77/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Louisiana" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/a53b3c7f-9e0c-46ef-ad00-eeb458253328/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Manuscript journal of maps: Surveying Texas and New Mexico, by E.A. Baue" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/ed1959fa-6546-47fb-9676-7341ccf78186/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Map of Mexico: engraved for the modern traveller" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/424be433-43ed-4adf-99eb-2d0fdda99610/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Map of the state of Texas: engraved to illustrate Mitchell's school and family geography" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/f46d0092-7442-4e71-b557-4bdbc5f77c8a/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Map of the United States" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/5bde13da-dc2e-40fc-8dbf-7e2dd7cc7193/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Map of the United States and their territories between the Mississippi and the Pacific Ocean and part of Mexico" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/aaebe3b8-8b19-4ca7-9acf-d318e8b04eb2/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mapa de los Estados Unidos Mejicanos: arreglado a la distribucion que en diversos decretos ha hecho del territorio el Congreso…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/a17c46c4-2ccb-4f13-accc-6cdbe9762f5b/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Message from the President of the United States, in relation to the boundary between the United States and the Republic of…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/dd0281e8-1775-4b73-b083-e53bea5dce62/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Messico e Guatimala" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/8b554359-c85c-4db4-bd79-890177e48240/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/60e5de95-fa92-4fce-b16c-313d1550e8eb/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico  and c." ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/d870a170-d81f-4175-bcca-af68e63071f1/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico and Guatemala" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/1871086f-1dd6-4d5b-82e5-9b0503b2cef1/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico and Guatimala" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/35900086-983e-472f-97db-e812ddb267dd/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico or New Spain: in which the motions of Cortes may be traced" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/2b7dff55-0e01-4c74-ba3f-b3bbd26f93ec/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Mexico, California and Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/4cc57850-b10a-4143-9640-3e1ea1f73f9d/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Méxique" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/be6fbad7-e010-4496-9cb4-87332c0d1fa4/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Neueste karte von Mexico: nach den besten Quellen entw. u. gezeichen" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/4309be8b-a766-433c-a7b2-b0d5f816c32d/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Nouvelle Carte du Mexique, Du Texas Et D'Une Partie Des Etats Limitrophes; Dediee a l'Academie Royale des Sciences de l…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/420122a2-1c03-47ed-967b-edacdea7821e/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Nueva Hispania tabula nova" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/57f730c7-bb98-467c-819f-26ddace7b366/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Portulano de la America Setentrional: dividido en quatro partes" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/7d2c2e85-99d3-447b-9a0c-6b4f98f99e6b/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Regni Mexicani seu Novae Hispaniae, Ludovicianae, N. Angliae, Carolinae, Virginiae et Pensylvaniae necnon insularum archipelagi…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/f5476516-eb1d-460e-a68c-76a4926bc5f6/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Report on the United States and Mexican boundary survey ; made under the direction of the secretary of the Interior" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/d71d0b6a-324d-4bab-ab49-d7833572f62a/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/ee742245-11d5-4507-8533-c5e75b666461/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Texas: eine geographische Skizze bearbeitet nach Berghaus Länderkunde und den neuesten Forschungen des Prinzen Carl zu Solms…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/b26e6281-ff25-4cd1-a2e8-a0a38749bfa1/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Texas: Message from the President of the United States transmitting the rejected treaty for the annexation of the Republic of…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/43e0e1ff-c613-483b-a6e3-5aa2742d8d1a/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Texas: observations, historical, geographical and descriptive : in a series of letters, written during a visit to Austin's…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/86e554fe-7585-42a4-b30a-ba8517e35117/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Texas: the rise, progress, and prospects of the Republic of Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/45b4f069-68ab-4fc8-8388-df6d721aa084/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "The civil engineers's pocket-book, of mensuration, trigonometry, surveying, hydraulics ... [etc.]: in addition to which the…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/2cceea72-792a-462c-b57b-d84276243a7c/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "The Texan emigrant: being a narration of the adventures of the author in Texas, and a description of the soil, climate,…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/72f373a0-43a7-49a2-8b5f-d36a4b475b52/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "The United States: and the relative position of the Oregon and Texas" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/7e7b3a8a-52f6-45c0-8539-3d03820e4ead/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Topographical Map of the Road From Fort Smith, Arks. to Santa Fe, N.M. and from Donna Ana N.M. to Fort Smith: made by the order…" ] }
+    }
+    ,
+    {
+             "id": "https://digitalcollections.library.tamu.edu/do/6a5dc676-e5fd-403b-a1e5-af0a8266f6db/metadata/iiifmanifest/default.jsonld",
+        "type": "Manifest",
+           "label": { "en": [ "Topographisch-geognostische Karte von Texas : mit Zugrundelegung der geographischen Karte v. Wilson nach eigenen Beobachtungen…" ] }
+    }
+  ]
+}

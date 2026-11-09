@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+
+# Exploratory scratch files, not part of the deliverable.
+annotations.json
+count_allmaps.py
+fetched.json
+remaining-urls.json

@@ -1,0 +1,4254 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Collection",
+  "id": "https://digitalcollections.library.tamu.edu/do/2b10ad56-a6cb-44c8-ae66-3fd5a1b4e09e/metadata/iiifmanifest3collection/default.jsonld",
+  "label": {
+    "en": [
+      "Geologic Atlas of the United States"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Cushing Memorial Library and Archives, Texas A&M University"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2b10ad56-a6cb-44c8-ae66-3fd5a1b4e09e",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Explore Geologic Atlas of the United States from Texas A&M Libraries"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "summary": {
+    "en": [
+      "The Geologic Atlas of the United States is a set of 227 folios published by the U.S. Geological Survey between 1894 and 1945. Each folio includes both topographic and geologic maps for each quad represented in that folio, as well as description of the basic and economic geology of the area. The Geologic Atlas collection is maintained by the Map & GIS Library ."
+    ]
+  },
+  "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "navDate": "1894-01-01T00:00:00Z",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>The Geologic Atlas of the United States is a set of 227 folios published by the U.S. Geological Survey between 1894 and 1945. Each folio includes both topographic and geologic maps for each quad represented in that folio, as well as description of the basic and economic geology of the area. The Geologic Atlas collection is maintained by the Map &amp; GIS Library .</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Collecting Area"
+        ]
+      },
+      "value": {
+        "en": [
+          "Map Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Content Type"
+        ]
+      },
+      "value": {
+        "en": [
+          "Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Geological Survey (U.S.)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date Issued"
+        ]
+      },
+      "value": {
+        "en": [
+          "1894/1945"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Origin"
+        ]
+      },
+      "value": {
+        "en": [
+          "reformatted digital"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "Texas A & M University. Libraries"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ]
+      },
+      "value": {
+        "en": [
+          "en_US"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Geology--United States--Maps"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "http://rightsstatements.org/vocab/NoC-US/1.0/"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6565cf7e-4dd0-40f4-bda3-51c510781bd9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aberdeen-Redfield folio: Northville, Aberdeen, Redfield, and Byron quadrangles, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/11b0e8d8-f60e-448a-b045-366575de8762/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Absaroka folio, Crandall and Ishawooa quadrangles, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/26ba9a9e-baa9-4f8a-87dc-1f73fa2d9a9c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Accident-Grantsville folio, Maryland-Pennsylvania-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1cfa1417-6ee9-4a4d-813b-2459bee04fc4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aladdin folio, Wyoming-South Dakota-Montana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/da585d52-cc2d-45a2-a168-2117dea1f584/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Alexandria folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/489a0003-edae-47ab-b311-7fb7726f2168/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Amity folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ef1dd5de-6f3f-4190-a80a-397fb4a4a690/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ann Arbor folio, Michigan"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/25da7ea4-a66a-41ab-8de0-3478fb328719/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Anthracite-Crested butte folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/30921e3f-5ca7-4672-bc8f-0aef5426280e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Apishapa folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5d01a430-fa44-4c82-ad58-7bea9be60e19/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Asheville folio, North Carolina-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a566b131-861d-47f7-ae9e-5db89a61ac2c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Atoka folio, Indian Territory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/215ebc26-746c-4bb1-b142-d1f005486980/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Austin folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/842a3603-d7e0-43cd-8d17-8509ae5e5aa4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bald mountain-Dayton folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d752b327-9d35-4e5d-97c3-709cffa9787d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Barnesboro-Patton folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0094bec9-0528-48ac-aeb4-c1a98eb66159/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Beaver folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4a9cabc4-c828-4333-9dd8-4d087bcc11d1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Belle Fourche folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a953193d-16bf-4f4e-b739-91be7a858186/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Belleville-Breese folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fe957085-0f38-441f-9021-54ecf6fe3370/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bessemer-Vandiver folio, Alabama"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a8780a7f-4075-4800-bbbb-6d280ad413cc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bidwell Bar folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/42342a36-c11c-461d-8ec3-774e6337052c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Big Trees folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ea14c08f-70a3-46ec-9a60-5f9e69e9d998/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Birmingham folio, Alabama"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5d2e3698-f47c-4398-9da4-764fc01f3c36/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bisbee folio, Arizona"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/60e4b505-b6ad-477c-86b2-c9778431685e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bismarck folio, North Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/24689a39-ca69-4004-9806-1a4d8960c96c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Boise folio, Idaho"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/406c55d7-8c2b-4746-be6b-796aed565877/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bradshaw Mountains folio, Arizona"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/61546df4-382d-4c70-a61d-d72cb560a99a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Briceville folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/365a803b-13fe-49c3-9b9a-e2c94a634951/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Bristol folio, Virginia-Tennessee."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2b9f3776-5925-4f92-8cdb-7fb4105710c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brownsville-Connellsville folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4afd7b06-ab36-486f-9455-75d813227de0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Buckhannon folio, West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8fd7f993-31c4-4276-b47b-50816fc1c8fb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Burgettstown-Carnegie folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/27131091-91be-4088-ac88-3667c272b14d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Butte special folio, Montana."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/47a949b1-d6e7-498e-845b-c3dbc74087de/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Camp Clarke folio, Nebraska"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0706fb54-d046-4135-a764-fb352e4cc8ab/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Carlyle-Centralia folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4bfdce32-c073-46d2-a328-eb9bed2f0410/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Casselton-Fargo folio, North Dakota-Minnesota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e6c44df7-901a-4bae-8d83-5616ae320789/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Castle Rock folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/16eac9ce-fabb-4874-9f7a-fcfe3809d6b5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Central Black Hills folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/911b6141-0fde-4c76-b6b9-ef4cb012c16f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Charleston folio, West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1eda4608-e08b-4c26-80ef-4a0af496eaf7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chattanooga folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/98dc69ba-9120-41a7-b712-5138fccf92e8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chicago folio, Riverside, Chicago, Desplaines, and Calumet quadrangles, Illinois-Indiana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/58bb845f-cee7-4e7a-8851-a4adfab7a8db/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Choptank folio, Maryland"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5d26ba0a-35b7-41a2-a470-292062879748/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Claysville folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4f6b88af-84d9-4e8b-9bda-b3aef23a9996/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cleveland folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/14b3e895-efc8-45c5-8623-a6e88217bd64/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Clifton folio Arizona"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fedeadac-3c35-45b0-9b71-3bf534b7b401/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cloud Peak-Fort McKinney folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a9c4175a-ba3e-409f-b3c4-b59e7a82120b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Coalgate folio, Indian Territory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ebeeaea6-ba0c-4023-a49e-cc686461c7df/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Coatesville-West Chester folio, Pennsylvania-Delaware"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9df2b14f-485c-455a-87c8-4b00338f1509/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Colchester-Macomb folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/59fb6a6d-23b4-4779-a536-4c1936bbfad9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Colfax folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/54f1805f-bd67-4a1b-8435-370407975bcc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Colorado Springs folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/92b9a162-e548-484f-9735-3d27a976f962/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Columbia folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/aa90bc13-408b-4fd5-be54-cf1f42bfe427/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Columbus folio, Ohio"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8e3f21f3-e5fd-4c6a-a343-3c426de56d81/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Coos Bay folio, Oregon"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2f16645d-ed59-4688-9e72-5e1e54df050a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cottonwood Falls folio, Kansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c77d0fbd-98fe-4ced-8af1-a44c788cb661/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cranberry folio, North Carolina-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0180dc0f-032e-4c67-8846-cea6a543fcb1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Danville folio, Illinois-Indiana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d76904c9-2b49-4307-bf8b-8c31f686aba7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "De Smet folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ad8989f7-dd6b-422c-bab2-c9cbbba02f50/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Deming folio, New Mexico"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f05d0b7f-5b9e-4c66-904a-5100e9707532/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Detroit folio : Wayne, Detroit, Grosse Pointe, Romulus, and Wyandotte quadrangles, Michigan"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d63632b8-a952-463c-878a-8987b6c49d8d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Devils Tower folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c92d6efb-c8e6-40ba-b206-70bb86d2fb1b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ditney folio, Indiana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/548b540b-4d6f-46a2-af0c-f5095dd71191/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Dover folio, Delaware-Maryland-New Jersey"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/61f5b6b7-2bc9-4acf-99c7-a3657f985d2a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Downieville folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5a951ee0-ff40-4aeb-a6c5-04561c26febd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Eastport folio, Maine"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/20d9bad3-e0fd-46e0-a9d6-5702e12b2b0a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ebensburg folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0dab16e0-cb17-4953-a75c-f50b44e90f1c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Edgemont folio, South Dakota-Nebraska"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a69a469e-6f71-4df7-8c36-cddfc1fdda93/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "El Paso folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d546f8de-c247-4a39-b16a-ac138c1bc669/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Elders Ridge folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/27c39e5f-02a3-4c8b-8f51-8e7557a5b35c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Elk Point folio, South Dakota-Nebraska-Iowa"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/38d78e7e-738a-4560-b38c-d60ee8420b5a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Elkland-Tioga folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1478ba32-c8b0-4d73-a2bc-058caf09a1cc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Elkton-Wilmington folio ; Maryland-Delaware-New Jersey-Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/aea8e195-8e7d-447b-a4b5-ece1f1c92e58/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ellensburg folio, Washington"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8a344675-4916-433c-aa27-487083defb4a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ellijay folio, Georgia-North Carolina-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e36a31f2-104a-49b3-b1a2-d80ae9c26a4b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Elmoro folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/53fa2461-94ac-4efa-952c-d1eec001709f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Engineer Mountain folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e79c1e73-c580-4111-a402-5a4498ee5c3a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Estillville folio, Kentucky-Virginia-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0f2bea72-776b-49ea-8ff0-33cc28c22257/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Eureka Springs-Harrison folio, Arkansas-Missouri"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/23482207-58ba-4955-b11b-337c15e1920f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fairfield-Gettysburg folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c7b1fe86-aa0f-454c-a3e5-dcfd21f68289/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fayetteville folio, Arkansas-Missouri"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f13266df-e7eb-420e-8079-0e9de8382a5b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fort Benton folio, Montana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b677bb08-0782-4e16-8f9c-3986fabbe896/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Foxburg-Clarion folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/dcd29df7-8a06-45b4-8a56-290d7fc075fe/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Franklin folio, West Virginia-Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e8892990-1ea6-48b2-a8cc-d698030e61c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Franklin Furnace folio, New Jersey"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/56ddf2a1-e2ef-4647-93fa-f2def07514f9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fredericksburg folio, Virginia-Maryland"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d7260016-15bd-418a-91cc-7b86b085fb5c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Gadsden folio, Alabama"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ad7e5df4-04f0-4cf5-b246-62f35c44e256/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Gaffney-Kings mountain folio, South Carolina-North Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/abcd7fc2-c0e4-4b4b-93c5-76cb23c504ea/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Gaines folio, Pennsylvania-New York"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d0f00c2f-2517-4ee8-9980-610d0ea65255/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Galena-Elizabeth folio, Illinois-Iowa"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d0b85e83-ff6c-4d6e-9513-3ba8450f87ea/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Gillespie-Mount Olive folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6a278f24-b077-419f-ae9f-142bdc2c108b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Globe folio, Arizona"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/098aa3ae-8424-42be-a37c-2d2397d5fac1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Greeneville folio, Tennessee-North Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/00abf301-397f-4328-8781-2a6d7f19c1ed/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Harpers Ferry folio, Virginia-Maryland-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a77f3285-0dc7-4ac9-b12c-c951d87477ef/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Hartville folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7ee7b4f9-9f48-4a25-be0e-02bdf34052da/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Herman-Morris folio : Herman, Barrett, Chokio, and Morris quadrangles, Minnesota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9d191518-5021-44de-8156-1b8e73395a69/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Hollidaysburg-Huntingdon folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3531707a-6f17-41d5-a8de-ce5a3f1d7511/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Holyoke folio, Massachusetts-Connecticut"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9bdae71a-b1c2-4253-9e3a-e7dc3677a060/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Hot Springs folio, Arkansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9e3e4e5a-940d-4830-a76f-c256d80767f2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Huntington folio, West Virginia-Ohio"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e762668b-55a1-46d9-a0c3-4a219b6be8a9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Huron folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4005851a-6e0d-4f0a-a93a-422612509570/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Independence folio, Kansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8f8c80e1-bf12-4e86-a0fb-3237c88ad144/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Indiana folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d16ac7dc-4ea3-4c6a-be21-624ef8857178/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Jackson folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/895dbe80-a9e0-488e-8fa9-8074bbec122d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Jamestown-Tower folio, Jamestown, Eckelson, and Tower quadrangles, North Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7b50c502-5a32-48ff-a03b-a03cdc55e959/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Johnstown folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1ff2ae22-6385-4ab5-9e4f-89fc4599d0ef/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Joplin district folio, Missouri-Kansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/90457bcf-6f72-4c1f-a682-01f91c84f1ff/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Kenova folio, Kentucky-West Virginia-Ohio"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4c6f0c5d-2cdd-44df-a628-c78f9fbc3753/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Kingston folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e904238d-5b9a-4613-917d-1f1fc0681f9c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Kittanning folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/00a644e6-8af9-401e-8d24-bed04c757787/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Knoxville folio, Tennessee-North Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/27004c1d-27c2-448a-8c5b-dd0d74787fb8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "La Plata folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/db8e3a92-78be-4d22-a048-40357679a0c7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Lancaster-Mineral Point folio, Wisconsin-Iowa-Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1f2f639d-7330-4445-b675-62e14a1c6327/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Laramie-Sherman folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fd9b8857-9e87-47e1-b172-0204046fb300/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Lassen Peak folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0ff0d761-8576-4382-83eb-6c6a705ea10a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Latrobe folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e0caeafc-ebd3-4526-9f32-517a37fafd58/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Leavenworth-Smithville folio, Missouri-Kansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/314b0648-5f93-4d4d-bd69-9e70f09975c0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Little Belt Mountains folio, Montana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/51f5b29a-9a4b-4bf0-bcdd-4f578e852116/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Livingston folio, Montana."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/762cbd82-a88b-4825-8564-b0d8bf8fa659/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Llano-Burnet folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7bbc4a4d-f05a-474a-8587-4f5772b9f1ce/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "London folio, Kentucky"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6ac322c6-e330-44f6-8bdd-f8a527d6bfbf/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Loudon folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/48a29e6e-fa9c-4587-b25a-06b952667272/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Marysville folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/143bb583-dd3b-4a4f-9d43-04960254a7c8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Masontown-Uniontown folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3c7f7baa-e907-46f8-9f55-cd5dd04547b5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Maynardville folio, Tennessese"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ab36d923-0c17-4efc-8602-574c698afce0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "McMinnville folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e38b9136-9b7c-4f66-82a0-94a318ee87a9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Menominee special folio, Michigan"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3498273d-0550-4ccb-92ce-ce0d0b3af44c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mercersburg-Chambersburg folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/39dc5ed8-c023-4d37-85c7-3dbf5f020dc0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Milwaukee special folio, Wisconsin."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/92e74726-784e-42d5-a886-3c7314049229/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Minneapolis-St. Paul folio, Minnesota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/efd7912a-e67e-4e29-ba53-1836565fe6dd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mitchell folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6a233f60-1af5-4182-9ec9-f157b2ab1346/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Monterey folio, Virginia-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/73150d6d-0718-4f70-a90e-8ee09b2b418a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Montevallo-Columbiana folio, Alabama"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8b8d194f-228c-4d65-9774-d3a35fddf27d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Morristown folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5e90b0f3-cbb3-4b1a-8a02-6d32385a429f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mother Lode district folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e861ae65-5014-4954-9765-7c8fbc6eceab/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mount Mitchell folio, North Carolina-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3bb42e86-a843-4898-b2df-aafb9b75da37/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mount Stuart folio, Washington"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/69a0d634-42c6-4e93-b990-9d9ecdf13bde/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Murphysboro-Herrin folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cffe9503-4aba-4f06-be22-49c93c72dd71/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Muscogee folio, Indian Territory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3290ff61-d683-4dc4-a2e0-8b6b729ef2eb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nampa folio, Idaho-Oregon"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4627b77f-1799-48b9-976d-f3c9eb5b2312/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nantahala folio, North Carolina-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/288685b2-c758-4c9d-8393-3c6cce681da1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Needle mountains folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d1319d3f-2df9-4c63-9c43-89e903f9c72b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nepesta folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bd0867fe-04f9-4855-b073-c2e917f4d37a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nevada City special folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/89930756-d9e5-44fe-8737-069c49e5bf0e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "New Athens-Okawville folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b30982e1-a911-4046-b4c2-c293a2e71eb1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "New York City folio, Paterson, Harlem, Staten Island, and Brooklyn quadrangles, New York-New Jersey"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/19d1d1bb-123f-468c-93f9-5f3b488d6c12/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Newcastle folio, Wyoming-South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ee0d9585-e325-4123-b032-3d379dea65cb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Newell folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e7a02e08-711e-4dbc-88cb-24f11a7ee6f5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Niagara folio, New York"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/eb11c0a2-ed05-4a5f-bc22-888b752666fb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nomini folio, Maryland-Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/be54eaf1-5023-4a92-9b4c-1176a2f1264a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Norfolk folio, Virginia-North Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fc770944-385b-4d58-b266-d9b25daa38d9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Nueces folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/367a538e-cc7f-403a-b18a-6dd60ccf599c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Oelrichs folio, South Dakota-Nebraska"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/d66019f7-00a6-4ea6-9d6f-41a375b3d159/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Olivet folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a3093256-07c9-4d45-8de3-bfee88443be5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ouray folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/432f8faa-1f3c-467f-8b17-072f08ae960f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Parker folio, South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5785370c-5507-4551-aa36-a236819bc3e7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Passaic folio, New Jersey--New York"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3657767f-ff26-4644-80d4-65d0c360d371/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Patoka folio, Indiana-Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a9f675d3-94b0-40a6-95d9-71dceb0a6030/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Patuxent folio, Maryland-District of Columbia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c0171319-69ea-41fc-8d42-de7afae1fa6c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pawpaw-Hancock folio, Maryland-West Virginia-Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8dd92c0c-6154-4413-b366-094e67037e9a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Penobscot Bay folio, Maine"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e2fc6bf2-69c6-4c42-84f2-329b8b5834a1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Philadelphia folio : Norristown, Germantown, Chester, and Philadelphia quadrangles, Pennsylvania-New Jersey-Delaware"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7461caf8-c017-40e9-b527-9f88ea0f61a8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Philipsburg folio, Montana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/70d12a95-24be-49b3-a739-714d73a70720/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Piedmont folio, West Virginia-Maryland"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/64de2b87-e109-46f4-ae72-cba56e3fb45a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pikes Peak folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ccc114e6-fa8e-4a8f-a058-f769beb1dbdd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pikeville folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/648f5e30-2fd1-48fa-b441-12f24b5f6895/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pisgah folio, North Carolina-South Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/47c391dd-277e-4a52-98a4-d9fd9ce04a51/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Placerville folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a04e419a-526e-4443-830c-10e99ab7d09e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pocahontas folio, Virginia-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5b86209b-d37e-4bbc-9ba1-9cdb987a26c6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Port Orford folio, Oregon."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1149e733-1d6a-4ebd-9afb-90642a8133ac/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pueblo folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2516253c-7231-4f78-84f9-f7b5ce97b56c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Pyramid Peak folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ad0ec644-1d4e-4d4f-aa40-578d729bdc28/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Raleigh folio, West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c64b0431-918f-41cc-9742-f36c6093f358/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Raritan folio, New Jersey"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c1b94a5c-f6e9-42e5-9fd4-618f3b8b3219/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Raton-Brilliant-Koehler folio, New Mexico-Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0509b8fc-b7de-4a85-8ce9-960de1bef114/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ray folio, Arizona"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7f9979a4-13ca-49be-a827-d914a415f181/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Redding folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3b1335fe-720e-4abb-9da8-a4266aacf201/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Richmond folio, Kentucky"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a2757c85-448c-4bed-bcc0-d87551240e1f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Rico folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/206d02d2-7056-48eb-a260-dee0961868dd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Riddle folio, Oregon"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/560971a4-6c39-4e05-952b-10d4186dbdb7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Ringgold folio, Georgia - Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3e7a25a1-954f-4031-a7d5-1a5fd1ada4b1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Roan Mountain folio, Tennessee-North Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2818abaf-7249-4641-b133-f224d59b3f90/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Rockland folio, Maine"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/58b8347d-b22c-444f-b5f5-205e3697f228/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Rogersville folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cef6c7b2-b61a-4d92-9032-223f88a265f3/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Rome folio, Georgia-Alabama"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/565a17b0-49c9-4476-beff-78ecc6b408c9/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Roseburg folio, Oregon"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9cc84ba4-ea5f-49c8-a0e7-0f5c8f1e182c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Rural Valley folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/59721263-da11-47fb-be87-d42031b018b0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Sacramento folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/978502a7-c098-4371-9065-1f7827c53e1f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "San Francisco folio, Tamalpais, San Francisco, Concord, San Mateo, and Haywards quadrangles, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ab2a3eb4-91fe-429c-b5d0-ebd60fcb1a8c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "San Luis folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/17626723-3bb4-4be1-b544-faa4e00111c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Santa Cruz folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3e0b1ca4-282f-4bc4-9731-87b1c088440e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Scotts Bluff folio, Nebraska"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6b98665c-7b4c-460d-9024-7ed65de91f97/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Sewanee folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/269d170b-c9ce-490d-b269-a7dab63f1395/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Sewickley folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/edc641fb-2e85-4bb6-b4ca-d6ab09eea83e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Silver City folio, Idaho"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f078a125-7e17-4271-9e40-53df36dd7064/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Silver City folio, New Mexico"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/49973956-6cb1-4db0-b6be-e5295b18bdc1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Silverton folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/44bdee92-8f81-4d30-bd0b-c84aa7ecdd72/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Smartsville folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/60c5711f-c8dd-4863-98dd-1b9489788ef5/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Snoqualmie folio, Washington"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/72448cea-bfa5-46f5-8539-3eadb6231fe0/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Somerset-Windber folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ee72416f-ddc2-4cc1-a852-a2780fae1399/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Sonora folio, California."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/96fa34d9-2d28-42ae-b7a0-fe82eff5a7b4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Spanish Peaks folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7d34cdd9-6e53-4e62-bc89-506f268a7097/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "St. Marys folio, Maryland-Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/92263741-d5b5-472d-a820-17208c7ea27a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Standingstone folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6e3d3309-cee2-41eb-8222-39d85e5dc26d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Staunton folio, Virginia-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ea6029de-6736-49b4-a529-eeb5f608feff/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Stevenson folio, Alabama-Georgia-Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4a075cb5-529f-4e5d-9df6-e50ec97969fc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Sundance folio, Wyoming-South Dakota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/12266e6d-bf27-4adb-a6f7-1e646e13b62d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Syracuse-Lakin folio, Kansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5c29db54-4f01-4b5a-ba73-07242d6f0b28/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tacoma folio, Washington"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7426683a-7876-4b6d-a01e-a38b9c169ea6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tahlequah folio : Indian Territory-Arkansas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/66d18c27-f890-48ff-8bc2-a1a2fac83097/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tallula-Springfield folio, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/763fa68a-204d-446c-8795-3a65fa8c2f38/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tazewell folio, Virginia-West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/438c1631-1142-453c-8cdf-814b41080d8d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Telluride folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e4e6a137-2ee3-46b8-a7bc-45c8a1025f3c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tenmile district special folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/304b43e7-a633-44f6-ba4c-b0374d134b30/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Three Forks folio, Montana"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3ef70d96-e6ee-4564-bb9f-1a9a3e1170a2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tintic special folio, Utah"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a80c6241-efcc-4d7d-a1d2-b6ddbb1fc620/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tishomingo folio, Indian Territory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bcd30b25-3e6d-4476-a503-c5f312c4e10f/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tolchester folio, Maryland"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/99782eb2-f28e-4fc3-bc56-9aead8ae72ad/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Trenton folio, New Jersey-Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4cbc14af-47c1-4f5a-8d7e-32700f5f28cb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Truckee folio, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/275f6bec-d201-4d46-8c6b-47c6858fea01/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Uvalde folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bd3777ce-beed-4a76-8b37-b14042dbe868/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Van Horn folio, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/192f384e-d005-47d9-ad57-5db14c9bbb8c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Walsenburg folio, Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0b3e09c9-5f01-42c8-8cc3-bb61f24e8fbc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Warren folio, Pennsylvania-New York"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fd7f6705-6dea-470c-ae08-acc86676721c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Wartburg folio, Tennessee"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3f26de58-f347-4383-95c8-3f70263e8298/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Washington folio, District of Columbia-Maryland-Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/80e08ab7-9f1e-4d2d-9f70-3b3b7aca2b5d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Watkins Glenn-Catatonk folio, New York"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3f5861f2-9f76-4687-a2f0-a6106a38fda4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Waynesburg folio, Pennsylvania"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a4728a7d-6e32-4ef7-bc94-d65443e59abe/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Winslow folio, Arkansas-Indian Territory"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/40cc1c5c-c194-4bf6-ab17-bb28b6029bca/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Yellowstone National Park folio, Wyoming"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    }
+  ]
+}

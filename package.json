@@ -1,0 +1,14 @@
+{
+  "name": "allmaps-to-georeference",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Tracks which IIIF manifest canvases have been georeferenced in Allmaps and which still need review.",
+  "scripts": {
+    "fetch": "node scripts/fetch-status.mjs",
+    "serve": "npx --yes http-server . -p 8080 -c-1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

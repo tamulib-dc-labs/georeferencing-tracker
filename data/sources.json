@@ -1,0 +1,56 @@
+[
+  {
+    "id": "woellhof-maps",
+    "label": "Woellhof Maps (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/1f517d48-cb56-46ff-b9c6-c8508a7eed5e/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/woellhof-maps.collection.json",
+    "collectionFileComment": "digitalcollections.library.tamu.edu puts its IIIF Collection endpoint behind a Cloudflare managed challenge that only a real browser can pass. This cached copy was saved from a real browser session; refresh it the same way periodically (see README). Manifest-level JSON is NOT behind the challenge, so those are fetched live."
+  },
+  {
+    "id": "wwii-service-maps",
+    "label": "World War II Service Maps (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/28f1fcca-d1aa-4b8a-91da-457ff2237c53/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/wwii-service-maps.collection.json"
+  },
+  {
+    "id": "charting-texas",
+    "label": "Charting Texas (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/70e55051-8789-464f-af00-3436672851f9/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/charting-texas.collection.json"
+  },
+  {
+    "id": "geologic-atlas",
+    "label": "Geologic Atlas of the United States (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/2b10ad56-a6cb-44c8-ae66-3fd5a1b4e09e/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/geologic-atlas.collection.json",
+    "compoundCanvasFile": "cache/geologic-atlas-cws-canvases.json",
+    "compoundCanvasFileComment": "Supplemental canvas data for this collection's 'compound object' manifests (see README), fetched via iiifmanifest3cws_multiple from an already-Cloudflare-trusted browser tab. Covers all 227 affected manifests."
+  },
+  {
+    "id": "historic-maps-of-cuba",
+    "label": "Historic Maps of Cuba (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/9201ab40-98ff-40cb-86cb-5bc53990dddf/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/historic-maps-of-cuba.collection.json",
+    "compoundCanvasFile": "cache/historic-maps-of-cuba-cws-canvases.json"
+  },
+  {
+    "id": "brazos-county-maps",
+    "label": "Maps of Brazos County, Texas (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/b710b14f-a543-41a9-b6c6-348b6a1cdb35/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/brazos-county-maps.collection.json",
+    "compoundCanvasFile": "cache/brazos-county-maps-cws-canvases.json"
+  },
+  {
+    "id": "stephen-powys-marks-london",
+    "label": "Stephen Powys Marks London Collection (Texas A&M / Cushing Library)",
+    "type": "collection",
+    "url": "https://digitalcollections.library.tamu.edu/do/fd6138aa-9f4f-4df8-bc62-9cfa847eeb75/metadata/iiifmanifest3collection/default.jsonld",
+    "collectionFile": "cache/stephen-powys-marks-london.collection.json"
+  }
+]

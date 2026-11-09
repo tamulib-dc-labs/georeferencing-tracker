@@ -1,0 +1,1770 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Collection",
+  "id": "https://digitalcollections.library.tamu.edu/do/b710b14f-a543-41a9-b6c6-348b6a1cdb35/metadata/iiifmanifest3collection/default.jsonld",
+  "label": {
+    "en": [
+      "Maps of Brazos County, Texas"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Cushing Memorial Library and Archives, Texas A&M University"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b710b14f-a543-41a9-b6c6-348b6a1cdb35",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Explore Maps of Brazos County, Texas from Texas A&M Libraries"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "summary": {
+    "en": [
+      "This digital collection features maps of Brazos County, the cities of College Station and Bryan, and the campus of Texas A&M University."
+    ]
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>This digital collection features maps of Brazos County, the cities of College Station and Bryan, and the campus of Texas A&amp;M University.</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Collecting Area"
+        ]
+      },
+      "value": {
+        "en": [
+          "Map Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Content Type"
+        ]
+      },
+      "value": {
+        "en": [
+          "Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "This digital collection features maps of Brazos County, the cities of College Station and Bryan, and the campus of Texas A&M University, ranging predominantly from the early to the late 20th century."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Origin"
+        ]
+      },
+      "value": {
+        "en": [
+          "reformatted digital"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Digital Publisher"
+        ]
+      },
+      "value": {
+        "en": [
+          "Texas A & M University. Libraries"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "en": [
+          "Digital maps",
+          "Campus maps",
+          "Parking maps"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ]
+      },
+      "value": {
+        "en": [
+          "eng"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Note"
+        ]
+      },
+      "value": {
+        "en": [
+          "Items featured in the scanned images are housed within Cushing Memorial Library. "
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Texas A & M University--Maps",
+          "Agricultural and Mechanical College of Texas--Maps",
+          "Brazos County (Tex.)--Maps",
+          "College Station (Tex.)--Maps",
+          "Bryan (Tex.)--Maps",
+          "Bryan (Tex.)--Aerial views"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "http://rightsstatements.org/vocab/InC/1.0/"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/93376caa-f1be-4860-95ba-df558162fa24/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Aerial infrared image of College Station, Texas]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/fb0%2Fimage-4013803-a3a716e6-58ca-45f7-9c63-b26e578b54dc.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/103a528b-6342-410c-b912-397c79167938/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Aerial photograph of College Station, Texas]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/9bc%2Fimage-1654665-a5ad9b9d-e425-45f1-b1a4-8588d06063f1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/931e2839-8cc3-4e3c-a8d9-4b7635ca143e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Aerial photograph of College Station, Texas]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b58%2Fimage-4013407-f59baede-569a-4e60-babf-30d25b7a0c4e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9579f0f6-ff22-4fe7-a4dd-aa5951cabc49/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Aerial photographs of Brazos County, Texas]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu//sites/default/files/media-icons/generic/no-thumbnail.png",
+          "type": "Image",
+          "format": "image/png",
+          "width": 180,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7f42831a-c065-435a-b404-085645328d74/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Brazos County Landowners map]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a8d%2Fimage-g4033-b73-g46-s7-b7-sheet-264-280-9b0ad0c8-c4e9-49e2-b33c-674a4ff8c292.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7a4639be-de84-4ca9-ba58-8405bf4ec900/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Brazos County Landowners map]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/113%2Fimage-g4033-b73-g46-s12-b7-index1-d61c1b5e-1049-4706-b9a7-2931699a7410.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/98e5088b-cbb8-49ec-98d8-f75632a3b552/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Texas A&amp;amp;M University Parking Map]: [1992-1993]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0bc%2Fimage-5376626-a-a3f608a0-c64d-4296-98ad-998c2a96e652.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fc5b6d4c-d69a-4c2c-bce7-c9bc6a24bc88/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Texas A&amp;amp;M University]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/93b%2Fimage-5419617-315b34a4-0605-4476-92c1-2da1b24bf166.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a98bc03e-e790-4238-99d8-7da647cb2a65/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "[Wellborn Road, Texas A &amp;amp; M University]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/dd4%2Fimage-4023969-18ff2264-efe5-4713-8ebb-d243c7e43285.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b840f8f3-32a7-4a54-94af-9e76c988a703/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "A&amp;amp;M College of Texas, College Station"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c9c%2Fimage-5396855-a-7e290c7a-2223-4cba-aca4-1ef818a9dd23.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5b715cf0-dbcb-4009-bc4e-50578d63d80e/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "A&amp;amp;M College of Texas, College Station"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2f7%2Fimage-5396877-a-ea4cd8e6-3bc4-49cb-9960-a4c9b05f1a7f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a4ffce95-acf1-4ba4-9bfd-d1119db6dabf/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Aerial control diagram: Texas A &amp;amp; M University main campus"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7e2%2Fimage-4025851-91777ba9-341e-483a-9709-44e672d13c08.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0f6316be-f965-4157-8719-ac918382aef4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Airport obstruction chart surveyed and Compiled by the National Ocean Survey (NOS)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7e6%2Fimage-4015016-f465e43c-ba81-442c-9a57-8122bad9671e.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e58882a7-a7da-47a8-9c32-362565c3d245/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Base map, Texas A&amp;amp;M University, College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f91%2Fimage-4003939-8561463e-07cb-4954-8bf9-1bf715ce0cab.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/76083085-fe3d-4fe8-996c-e2ecd1477b5a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Base map, Texas A&amp;amp;M University, College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e2f%2Fimage-4023941-ad04f3a7-86ae-4a55-b910-df0768da14d9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a35157be-2b97-4873-9534-74cb1f2dd6bc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brazos Co, Tex [photomosaic index]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a34%2Fimage-3968720-a-d49e688f-d4bd-4ed9-b89a-f2d4d5e2487f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8a80edc7-5b4f-49c4-8119-6105c463ef8d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brazos County, Texas [photomosaic index]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e88%2Fimage-3968852-a-d68b1806-8b6a-45cb-9f85-70a0107da821.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5e694cd4-0b1b-4d86-82b8-2caa8aeab2c4/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brazos County, Texas [photomosaic index]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/aec%2Fimage-3968613-a-2d2c680a-ad1a-4220-9eff-f3257a823502.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bb04fb3d-1b71-4813-a422-095c7f3d982b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brazos County, Texas [photomosaic index]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/32b%2Fimage-3968799-a-ee0ecca9-5d32-423a-96dd-9cf4906c36be.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f425a61b-c2d4-45fd-959e-34e574460a59/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brazos County, Texas [photomosaic index]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/cd1%2Fimage-3968786-a-3f9f222e-b516-4ef9-9588-abb7d0242b22.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c21d4cf3-1295-40a0-bd38-455493fddf8c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Campus parking"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a5d%2Fimage-5419615-23e1b5b1-7cb2-46e1-b0b0-fac351559c9d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3d70227b-9f93-448a-8a7b-3335286ec292/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cemeteries of Brazos County, Texas overlaying General highway map, Brazos County, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/71e%2Fimage-3989034-c88aa736-1a96-481d-bcb4-82d4c905f9b0.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9cc12320-44f2-40af-81a1-5d68172d72d7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "City of College Station, Texas: zoning map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/808%2Fimage-4014572-7cd05e56-a6a0-498e-b665-630c7d7cbf2d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c22af833-32c8-41e8-9bfb-3b7bf5ec94fe/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "College Station and vicinity: training map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/cb7%2Fimage-2988739-bbad84a6-b4ed-4bac-8323-c286054364c1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2e9d5148-5ce2-4869-9edc-165e9ab94ef8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "College Station School District property map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8d7%2Fimage-g4034-c58-g46-s4-c6-index2a-bbc35429-77c0-4c6f-8c4d-38b053dbf8f1.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/53350ac2-a6ba-4c1e-862b-34713b73b21c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map of Brazos Co, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c57%2Fimage-1584454-1a061742-6866-4177-95df-b9731a16a8f7.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/60183d04-b1f3-468f-adfd-84228e2c038c/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map of south quarter of A &amp;amp; M College lands, a part of the J E Scott League, Brazos County, Texas, April 1919"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0d8%2Fimage-3915201-2bc4e325-947a-4045-a2e1-3457a3576169.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/60e14368-1d42-4d5f-b70e-c5fca864e232/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map of the campus of the A&amp;amp;M College of Texas: showing house numbers and names of streets"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/ed9%2Fimage-3873053-5ed43fce-70af-4815-ad4a-81ce9863828a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/cb753121-5620-48f3-a1bd-19c028ea0023/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map of west quarter of A &amp;amp; M College lands, a part of the J E Scott League, Brazos County, Texas, April 1919"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f64%2Fimage-3915197-af64914d-7bb9-4de0-b97b-ac7ee067c363.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ae3680a6-4a61-4cff-abc8-df187d728823/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Map showing lands belonging to the Agricultural and Mechanical College of Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/f21%2Fimage-3915185-d341d769-ee82-4c5c-9864-f8629df213b0.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5f7fdc44-52da-4057-a120-0c60bf89ecff/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Master plan of principal streets for the city of College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c6b%2Fimage-4013817-c2282667-6e45-41d8-855f-e0a1e984db72.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/74ef6607-08a3-43d6-8452-250a05d1ae7d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "NAPP 8657-107: [aerial photograph of College Station, Texas]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a31%2Fimage-4823118-40fd4c39-503d-4932-80df-4832a2ec2d5a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8e952630-980b-480e-92a1-fa1474606e1b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Off Campus Bus Route Information Guide, Texas A&amp;amp;M University: Fall 1997"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c38c658c-3835-40f8-8304-b0cac6db9316/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Off-Campus Bus Route Information, Texas A&amp;amp;M University: 2003-2004"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/294%2Fimage-5376587-a-6066f83d-fa88-4e38-9f21-6b193df6e230.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/61f00340-5ac9-42bc-be38-f0a025a18f21/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Official map: city of College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2fd%2Fimage-4014868-a-426c07bf-8d2b-41df-a59b-fdd6c83da637.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/1b327d26-c37a-43cd-9b72-8d19026363a1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "On-Campus Bus Route Information, Texas A&amp;amp;M University: 2003-2004"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8be%2Fimage-5376589-3ebf1c97-63a4-4bcc-9497-76ee9a8a7c0a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bbf13f9c-69db-47c7-808d-508fd8d26998/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Parking tips to survive Texas A&amp;amp;M University: 1990-1991"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/512%2Fimage-5376619-a-db49aa42-4d17-42b4-90ee-8b45ccd21f65.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/a0c7e1c9-d7d5-4755-861a-59fb063c19ea/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Parking tips to survive Texas A&amp;amp;M University: 1991-1992, Motor Vehicle Regulations"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/692%2Fimage-5376622-a-c99b6a96-9146-4cb9-9dc7-e3170cce45ae.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f1e69741-b370-4d8f-a67d-0aa49647a228/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Service access, Texas A&amp;amp;M University: September 1986"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/96e%2Fimage-5418153-cbc1bf6f-7bae-446d-903a-40419ec0ccaa.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f0acd24f-aabc-4b46-b43f-3a5f081271be/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Student parking areas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b83%2Fimage-5396891-a-09dc5edd-0e24-4145-922b-cab41f77d505.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e7e406b6-e876-4309-a19f-3b5930809759/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Student parking areas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/3de%2Fimage-5396889-a-720440c7-3c50-4f67-b849-d4f8c8006095.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9ab65175-0cc2-482b-b5ef-65582f335928/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Student parking areas: Campus Security"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/97c%2Fimage-5396882-a-ce732a35-b24f-4bdf-8b8a-78601251c50f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/7aed897b-1d0e-4c30-ae41-fa2574f76739/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Student parking areas: University Police"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c54%2Fimage-5396883-a-71a510df-2f3c-4cde-a14b-f21097a2eb69.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c3be2a0a-960a-49ce-8728-30c9cb0b6080/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/df6%2Fimage-4026212-1861208d-b8ae-4d75-9940-7a0098723019.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/15c57dae-b47f-4365-8bf4-1eebb806ffcd/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University campus parking: 2000-2001"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/afc%2Fimage-4019835-44673294-2b0e-4ce3-aff1-d1b8934b0994.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ca7197f4-b181-4aca-9486-232df09412ed/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University campus parking: 2001-2002"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b51%2Fimage-5376501-975a4b1d-bb70-4f2e-8e37-e79715821e36.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3d8ceff0-51c6-4d77-8675-d98d7ad578fb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University campus parking: 2002-2003"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/205%2Fimage-5376504-6ef9ec53-412e-4070-8274-82b2d2fa01c6.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e8737b22-b116-4356-a092-32aacb725004/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University campus parking: 2003-2004"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0e3%2Fimage-5376502-3fcb995f-d620-45e8-a71d-aabf9cc3b949.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0df52670-8146-4419-8d35-94d6c7204011/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University facilities &amp;amp; land use plan 2003"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/82c%2Fimage-4825266-a-75ff99d9-b13a-4dae-9193-a04920b3538f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4f47116f-38c6-47c9-a1f9-bb15ad8ca9f3/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University main campus: College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/e7a%2Fimage-4019451-1f1b5ccc-d2a8-4868-9fb9-e3c5d52e9cef.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9aad773e-f6ae-4f9e-8cbf-fa6d81709e56/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University main campus: College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/6e4%2Fimage-4019714-12db6f43-e793-4ad4-bbde-95dff68fe082.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bd5aa6cc-e254-49f4-966f-43c90825e7d7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A &amp;amp; M University main campus: College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/5e4%2Fimage-4019712-14b4b824-3829-4d3a-9329-8a0266aecd98.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4a62754b-ed92-49f3-ac3e-c6746c401c47/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/2f8%2Fimage-5419619-6fbe17be-2d88-4d3a-a249-35b84bc6fefa.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/533b4ab1-3438-4794-bf6b-39d36bb0e377/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0fa%2Fimage-5418159-a-a8b76adf-cd43-4812-b6d3-8879ee40169d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/9fe7fcef-0c0d-47f7-bf62-e5e4ec5aa118/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/6b4%2Fimage-3983257-beaf2655-81c9-49f1-ac2e-d9be069bca84.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/735e2488-66a5-4966-a910-ae976232a7ce/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University [Parking Map]: 1994-1995"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b12%2Fimage-5376659-a-ef5e80e9-5b16-440e-8917-8780fa45c824.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0278607f-313e-4e12-86a1-2f8a6202cadf/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University [Parking Map]: 1998-1999"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a76%2Fimage-4019748-a-be8af3b5-9193-4167-904e-bdc9d335897b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/fe4bbd19-b602-4eb0-8209-d02bcdaa873b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University Campus [Parking Map]: [1997-1998]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/97d%2Fimage-5386690-a-13c390da-2ace-41d1-b63d-86a9fe485ae8.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/dff084ee-15df-450d-a434-1b68c05f85c1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1979"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7a0%2Fimage-5407472-a-78b663df-7320-4624-b4b0-f4c140986316.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/45e6a98a-f810-4360-bd32-13e2deaa11e2/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1980"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b25%2Fimage-5418194-a-d37f7776-835f-4156-871c-ab6bf94594e9.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/be54d3ee-c754-4ae2-9028-ecd1b48e659d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1981"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8f9%2Fimage-5418195-a-eade029e-f0bd-466a-bb5e-b9c48460603d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3e25a0a8-8260-4704-b0ea-82ad0ac384a8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1982"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/c7a%2Fimage-5418197-a-94ea0717-298e-4a45-b9bd-f3691bdb13af.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/c2ded23e-5e21-48ae-a60a-31940d689643/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1983"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/fe9%2Fimage-5418200-a-8525e36e-fc98-4a05-8221-40eb8748587f.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/6ef0c294-2f2d-4655-9875-746cd66b30ce/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1984"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/bff%2Fimage-5418204-a-6f3b9051-5989-4e9a-9b4a-6673605c446a.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/e5239d17-adaa-4b82-a738-d826fe50cb43/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1985"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d60%2Fimage-5418207-a-93085e13-a51d-4b7e-8f38-e6d638a43d19.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/50d786f3-28b6-48f0-bd03-093fdc613004/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1986"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/90d%2Fimage-5419609-a-58d2d96e-6648-4819-b160-9d06462a60a0.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5de0860a-32fb-4b30-9a13-0b7a53bfe14b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1987"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/41e%2Fimage-5419611-a-35387af9-efa1-4a75-92c3-bc19a06a62d2.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0b7d7cea-0ad6-479d-ad92-e0ecda57493d/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1988"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/ecf%2Fimage-5419612-a-1de4a1ae-a8d4-462e-ac9b-fa74ac18982b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/38147af3-5143-406c-b4b4-9be82e9c77b6/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University motor vehicle regulations: September 1989"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/297%2Fimage-5419614-a-e119b4a5-8a7a-4c86-840d-4a003edf2a18.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/2ff9b6e0-2d6a-4e7d-8dbd-0fcc770e1e70/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University on campus shuttle system: spring 1995"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/847%2Fimage-5386741-83d810ab-6e9e-4436-9304-c656b49e5159.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5de7d573-8ccf-4a5d-a0df-e40b1ebc644a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University Route Information: 1999-2000"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/0a1%2Fimage-5386747-a-218c50cc-c6ae-4253-ae2b-3e9477247329.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f488d1f9-6f18-434b-830b-07e047802d58/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University Route Information: 2001-2002"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/b08%2Fimage-5376566-a-42aa40ba-5737-441c-81ed-71445500ea81.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/febdbdf8-2dd7-460f-b900-aef4cf854c60/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University, College Station"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/d58%2Fimage-5396880-a-2c7b9a71-88dd-4fee-b1ac-b5d109cd721d.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3f0c1eb2-5b02-4eb1-aa8e-c0e7621418cb/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas A&amp;amp;M University, College Station, Tex main campus"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a94%2Fimage-4003901-69a2c714-e259-4906-89f3-690afd5c9235.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/b1fba9ab-fff6-4565-bb98-9acee8ef1ac8/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Texas Aggies [Texas A&amp;amp;M University Parking Map]: [1993-1994]"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/8e1%2Fimage-5376627-a-7b0d77ac-3a8e-4b3f-b816-d9ebcfd099d3.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/bbb70b66-213a-4b22-974d-b34eb9475e0b/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/ed2%2Fimage-2929298-2004-a-d726ccf4-0071-4d96-a205-81fcb7e9c347.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/f73e24a5-d07f-417e-8898-150812871d04/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/850%2Fimage-2929298-2016-a-0ac0750c-620d-4777-8672-b870355b988b.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/5a7e6088-04bb-4994-92cd-bf478f037303/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/09f%2Fimage-2929298-2005-a-d8fdd946-2a04-4ebb-83ae-e829651669af.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/3965f66c-c3e2-41b2-86b5-1440060ac523/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/157%2Fimage-2929298-2007-a-34acc774-ea5c-4711-82ab-dc7b22421088.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/356a846d-f9b3-4f99-a490-93b2da1e873a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/1fc%2Fimage-2929298-2006-a-0fb76b28-e02d-48d0-a1df-53a2f6b41848.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/0bc8b27c-9990-43ef-a5dd-646ae713a3e1/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/27c%2Fimage-2929298-2010-a-96b5ecad-b1a6-4f23-9d8b-3ad2b5f24aae.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/be770dc8-489f-4d95-8ef1-58e1ad2d4d94/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Aggie map of Texas A&amp;amp;M University"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/64e%2Fimage-2929298-2009-a-d912923f-8be7-47e3-b87f-4b29f254ab33.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/af62f004-e637-478f-ab80-c33a8d531fdc/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "The Bryan-College Station bicycle plan"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/4883b6fc-91a3-4550-9060-76a8e21ebe98/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Transit Routes &amp;amp; Schedule Information: 2004-2005"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/7c9%2Fimage-5376556-a-6027d110-faf5-4eaf-96a0-9ccc3855c675.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/82cf6b0d-0ea6-4f3f-bde9-4fdceb6c0327/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Transit routes &amp;amp; schedule information: 2005-2006"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/a98%2Fimage-5376529-a-33ea023b-fc7c-4d91-a359-204b357b4e75.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/80b57eec-cb4c-4fbc-b7e6-4355672c789a/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Vendor Map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/6bc%2Fimage-5407479-46e16a1b-6616-494f-aa56-90df8a3fab08.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/8995ca15-d543-4365-b305-5e223a8dbde7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Vendor Map"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/1d3%2Fimage-5418155-efd02aac-9715-4116-8af6-276fb8764972.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "id": "https://digitalcollections.library.tamu.edu/do/ef8d3367-402d-468b-a1b0-59eca1675fe7/metadata/iiifmanifest/default.jsonld",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Welcome to A &amp;amp; M: your guide to the campus of the Agricultural and Mechanical College of Texas, College Station, Texas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://digitalcollections.library.tamu.edu/iiif/2/405%2Fimage-3875172-a-8e4024df-4cff-41a6-94d6-554a522bb448.jp2/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 180
+        }
+      ]
+    }
+  ]
+}

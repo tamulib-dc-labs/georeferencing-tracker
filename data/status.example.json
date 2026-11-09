@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-08T00:00:00.000Z",
+  "collections": [
+    {
+      "id": "example-collection",
+      "label": "Example Collection",
+      "manifests": [
+        {
+          "id": "https://example.org/iiif/manifest/1/manifest.json",
+          "label": "Atlas of Example County, 1890",
+          "canvases": [
+            {
+              "id": "https://example.org/iiif/manifest/1/canvas/p1",
+              "label": "Cover",
+              "thumbnail": "https://example.org/iiif/1/p1/full/200,/0/default.jpg",
+              "georeferenced": false,
+              "annotationId": null,
+              "hasMap": false,
+              "notes": "Title page, not a map"
+            },
+            {
+              "id": "https://example.org/iiif/manifest/1/canvas/p2",
+              "label": "Plate 1: Downtown",
+              "thumbnail": "https://example.org/iiif/1/p2/full/200,/0/default.jpg",
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/images/abc123",
+              "hasMap": true,
+              "notes": ""
+            },
+            {
+              "id": "https://example.org/iiif/manifest/1/canvas/p3",
+              "label": "Plate 2: Riverside",
+              "thumbnail": "https://example.org/iiif/1/p3/full/200,/0/default.jpg",
+              "georeferenced": false,
+              "annotationId": null,
+              "hasMap": true,
+              "notes": "Needs control points"
+            },
+            {
+              "id": "https://example.org/iiif/manifest/1/canvas/p4",
+              "label": "Plate 3: Index map",
+              "thumbnail": "https://example.org/iiif/1/p4/full/200,/0/default.jpg",
+              "georeferenced": false,
+              "annotationId": null,
+              "hasMap": null,
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
