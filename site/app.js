@@ -110,7 +110,7 @@ function render() {
         const tr = document.createElement("tr");
         const state = canvasState(canvas);
         tr.innerHTML = `
-          <td>${canvas.thumbnail ? `<img class="thumb" src="${canvas.thumbnail}" loading="lazy" alt="" />` : ""}</td>
+          <td>${canvas.thumbnail ? `<a href="https://theseusviewer.org/?iiif-content=${encodeURIComponent(manifest.id)}" target="_blank" rel="noopener" title="Open manifest in Theseus"><img class="thumb" src="${canvas.thumbnail}" loading="lazy" alt="Open ${(manifest.label || "manifest").replace(/"/g, "&quot;")} in Theseus" /></a>` : ""}</td>
           <td><a href="${canvas.id.replace(/\/iiif\/canvas\/p[^/]*$/, "")}" target="_blank" rel="noopener">${canvas.label || canvas.id}</a></td>
           <td><span class="badge ${state}">${STATE_LABEL[state]}</span></td>
           <td>
