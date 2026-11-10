@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:41:06.580Z",
+  "generatedAt": "2026-11-10T14:51:38.485Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -10681,8 +10681,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/6bbfd7b6-aabd-4677-ae5c-9a4603187dcb/iiif/canvas/p2",
               "label": "2 of 2 images: Appletons' southern and western travellers' guide : with new and authentic maps, illustrating those divisions of the country, and containing sectional maps of the Mississippi and Ohio rivers, with plans of cities, views,etc...",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c88%2Fimage-527384-2-d0b067ae-3cb2-49e1-a5ed-3dd0f3e17b08.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/4def17509af24e0b",
               "hasMap": true,
               "notes": ""
             }
@@ -57248,8 +57248,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/7a4639be-de84-4ca9-ba58-8405bf4ec900/iiif/canvas/p2",
               "label": "2 of 65 images: [Brazos County Landowners map]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/fed%2Fimage-g4033-b73-g46-s12-b7-index2-9fb503cb-43bc-49b7-b7c3-5cad656fe055.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/49b2dc93a01afe9f",
               "hasMap": null,
               "notes": ""
             },
@@ -57257,8 +57257,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/7a4639be-de84-4ca9-ba58-8405bf4ec900/iiif/canvas/p3",
               "label": "3 of 65 images: [Brazos County Landowners map]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/b52%2Fimage-g4033-b73-g46-s12-b7-index3-c8885d2e-e450-4a9f-b7a5-9f34c9ba9b16.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/875f68037316c2be",
               "hasMap": null,
               "notes": ""
             },
@@ -57266,8 +57266,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/7a4639be-de84-4ca9-ba58-8405bf4ec900/iiif/canvas/p4",
               "label": "4 of 65 images: [Brazos County Landowners map]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/dc5%2Fimage-g4033-b73-g46-s12-b7-sheet-1-8f864d6a-0a99-48f6-ade0-529cb80f0063.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/5e749d90c90f2ce0",
               "hasMap": null,
               "notes": ""
             },
@@ -57831,8 +57831,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/98e5088b-cbb8-49ec-98d8-f75632a3b552/iiif/canvas/p1",
               "label": "1 of 2 images: [Texas A&M University Parking Map]: [1992-1993]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0bc%2Fimage-5376626-a-a3f608a0-c64d-4296-98ad-998c2a96e652.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/b7cd2d48520580cc",
               "hasMap": null,
               "notes": ""
             },
@@ -57986,8 +57986,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/76083085-fe3d-4fe8-996c-e2ecd1477b5a/iiif/canvas/p1",
               "label": "Base map, Texas A&M University, College Station, Texas",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/e2f%2Fimage-4023941-ad04f3a7-86ae-4a55-b910-df0768da14d9.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/01b3724b18a6b4c2",
               "hasMap": null,
               "notes": ""
             }
@@ -58208,8 +58208,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/c21d4cf3-1295-40a0-bd38-455493fddf8c/iiif/canvas/p1",
               "label": "Campus parking",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/a5d%2Fimage-5419615-23e1b5b1-7cb2-46e1-b0b0-fac351559c9d.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/bfeed5a07c7d5313",
               "hasMap": null,
               "notes": ""
             }
@@ -58747,8 +58747,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/61f00340-5ac9-42bc-be38-f0a025a18f21/iiif/canvas/p2",
               "label": "2 of 2 images: Official map: city of College Station, Texas",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/710%2Fimage-4014868-b-40f2beed-c524-4ae4-aa4b-80d7b4f1e93f.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/bf4b3e558c7b349e",
               "hasMap": null,
               "notes": ""
             }
@@ -59612,8 +59612,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/b1fba9ab-fff6-4565-bb98-9acee8ef1ac8/iiif/canvas/p1",
               "label": "1 of 2 images: Texas Aggies [Texas A&M University Parking Map]: [1993-1994]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/8e1%2Fimage-5376627-a-7b0d77ac-3a8e-4b3f-b816-d9ebcfd099d3.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/0592918d7eb954fc",
               "hasMap": true,
               "notes": ""
             },
@@ -59712,8 +59712,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/3965f66c-c3e2-41b2-86b5-1440060ac523/iiif/canvas/p1",
               "label": "1 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/157%2Fimage-2929298-2007-a-34acc774-ea5c-4711-82ab-dc7b22421088.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/db85b791f11b1d7d",
               "hasMap": true,
               "notes": ""
             },
@@ -59721,8 +59721,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/3965f66c-c3e2-41b2-86b5-1440060ac523/iiif/canvas/p2",
               "label": "2 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/ade%2Fimage-2929298-2007-b-60b1dddc-4f92-4df0-878c-79600e5887ca.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/85d371d0d0aeefc7",
               "hasMap": true,
               "notes": ""
             }
@@ -59737,8 +59737,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/356a846d-f9b3-4f99-a490-93b2da1e873a/iiif/canvas/p1",
               "label": "1 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/1fc%2Fimage-2929298-2006-a-0fb76b28-e02d-48d0-a1df-53a2f6b41848.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/b22d43b045112317",
               "hasMap": true,
               "notes": ""
             },
@@ -59746,8 +59746,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/356a846d-f9b3-4f99-a490-93b2da1e873a/iiif/canvas/p2",
               "label": "2 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/134%2Fimage-2929298-2006-b-cf36d6bd-5a38-4821-83b0-f2db163d40ba.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/b2092184466f58b0",
               "hasMap": true,
               "notes": ""
             }
@@ -59762,8 +59762,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/0bc8b27c-9990-43ef-a5dd-646ae713a3e1/iiif/canvas/p1",
               "label": "1 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/27c%2Fimage-2929298-2010-a-96b5ecad-b1a6-4f23-9d8b-3ad2b5f24aae.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/37c2134adecfb5fe",
               "hasMap": true,
               "notes": ""
             },
@@ -59771,8 +59771,8 @@
               "id": "https://digitalcollections.library.tamu.edu/do/0bc8b27c-9990-43ef-a5dd-646ae713a3e1/iiif/canvas/p2",
               "label": "2 of 2 images: The Aggie map of Texas A&M University",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/331%2Fimage-2929298-2010-b-b04cdee1-6dd0-4472-b4ca-93a900a2938c.jp2/full/240,/0/default.jpg",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/c1d215f120c82da4",
               "hasMap": true,
               "notes": ""
             }
