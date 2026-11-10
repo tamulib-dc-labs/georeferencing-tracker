@@ -111,7 +111,7 @@ function render() {
         const state = canvasState(canvas);
         tr.innerHTML = `
           <td>${canvas.thumbnail ? `<img class="thumb" src="${canvas.thumbnail}" loading="lazy" alt="" />` : ""}</td>
-          <td><a href="${canvas.id}" target="_blank" rel="noopener">${canvas.label || canvas.id}</a></td>
+          <td><a href="${canvas.id.replace(/\/iiif\/canvas\/p[^/]*$/, "")}" target="_blank" rel="noopener">${canvas.label || canvas.id}</a></td>
           <td><span class="badge ${state}">${STATE_LABEL[state]}</span></td>
           <td>
             <select class="hasMap">
