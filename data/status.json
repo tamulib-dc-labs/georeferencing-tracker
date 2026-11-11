@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:50:03.132Z",
+  "generatedAt": "2026-11-11T15:04:20.505Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -2379,7 +2379,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/87f%2Fimage-g5834-c3-1558-o77-1579a-13ea4a24-c724-40e1-b7fb-236cd0580849.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/87f%2Fimage-g5834-c3-1558-o77-1579a-13ea4a24-c724-40e1-b7fb-236cd0580849.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/a52d20432d8b798e",
+              "annotationId": "https://annotations.allmaps.org/maps/b04c17ae9fde1054",
               "hasMap": null,
               "notes": ""
             },
@@ -6741,7 +6741,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/bd6%2Fimage-g5833-b55-1598-o77a-b07a1ed1-ad44-41f7-ac01-4a860891dcd0.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/bd6%2Fimage-g5833-b55-1598-o77a-b07a1ed1-ad44-41f7-ac01-4a860891dcd0.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/205ba2ef81cd3254",
+              "annotationId": "https://annotations.allmaps.org/maps/051a700f6ecf7f14",
               "hasMap": null,
               "notes": ""
             },
@@ -9610,7 +9610,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0011-0001-ba70f56d-c69c-4d80-bedb-09bf810b9336.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0011-0001-ba70f56d-c69c-4d80-bedb-09bf810b9336.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1d6341e8cfca48ea",
+              "annotationId": "https://annotations.allmaps.org/maps/bc5db17bca88df0d",
               "hasMap": true,
               "notes": ""
             }
@@ -10377,7 +10377,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/d3d%2Fimage-service-maps-0076-0001-6b8b9c09-0e53-4aca-9106-5b066f23dc06.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/d3d%2Fimage-service-maps-0076-0001-6b8b9c09-0e53-4aca-9106-5b066f23dc06.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/5b0e13d4b38a1a5e",
+              "annotationId": "https://annotations.allmaps.org/maps/a43e68fc78b7a078",
               "hasMap": null,
               "notes": ""
             },
@@ -10838,7 +10838,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/bcc244d338432c29",
+              "annotationId": "https://annotations.allmaps.org/maps/1d4ccf7614c0e23f",
               "hasMap": null,
               "notes": ""
             }
@@ -12205,7 +12205,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/bde%2Fimage-5680176-2c7336f1-d530-47c1-95a4-848ad0c76f9e.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/bde%2Fimage-5680176-2c7336f1-d530-47c1-95a4-848ad0c76f9e.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/9edbe90f3c553b18",
+              "annotationId": "https://annotations.allmaps.org/maps/c10380fa68d3cc4b",
               "hasMap": true,
               "notes": ""
             }
@@ -12381,7 +12381,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/014%2Fimage-6275054-6a1d3ff3-5888-4da3-88a7-65e805900d6c.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/014%2Fimage-6275054-6a1d3ff3-5888-4da3-88a7-65e805900d6c.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/c0e90c852bc34a8d",
+              "annotationId": "https://annotations.allmaps.org/maps/67027b2af45dbea3",
               "hasMap": true,
               "notes": ""
             }
@@ -61269,7 +61269,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/3d3e361416d89f6c",
+              "annotationId": "https://annotations.allmaps.org/maps/ae66bddeafd51f0a",
               "hasMap": null,
               "notes": ""
             },
@@ -61442,7 +61442,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/3ed72247f64a736e",
+              "annotationId": "https://annotations.allmaps.org/maps/1fae1ff56a1e0a19",
               "hasMap": null,
               "notes": ""
             }
@@ -61627,7 +61627,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/acddf56782a301a0",
+              "annotationId": "https://annotations.allmaps.org/maps/2a474159539fe556",
               "hasMap": null,
               "notes": ""
             }
@@ -62412,7 +62412,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1b5435d21328793d",
+              "annotationId": "https://annotations.allmaps.org/maps/4907bc6c31ef47e2",
               "hasMap": null,
               "notes": ""
             },
@@ -64596,7 +64596,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/68ca39d633652a0e",
+              "annotationId": "https://annotations.allmaps.org/maps/b502dcdbd1685e21",
               "hasMap": null,
               "notes": ""
             },
@@ -65150,8 +65150,8 @@
               "label": "1 of 2 images: Texas A&M University Campus [Parking Map]: [1997-1998]",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/97d%2Fimage-5386690-a-13c390da-2ace-41d1-b63d-86a9fe485ae8.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/97d%2Fimage-5386690-a-13c390da-2ace-41d1-b63d-86a9fe485ae8.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/ccfa416cbe10a8e3",
               "hasMap": null,
               "notes": ""
             },
@@ -65806,7 +65806,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/4baf04c2ac58c062",
+              "annotationId": "https://annotations.allmaps.org/maps/2d4c2e86a5ed0044",
               "hasMap": null,
               "notes": ""
             },
