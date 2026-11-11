@@ -4,6 +4,7 @@
 // into data/status.json — without ever clobbering human-set `hasMap` values.
 
 import { readFile, writeFile } from "node:fs/promises";
+import { createHash } from "node:crypto";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -64,8 +65,36 @@ function canvasesFromManifest(manifest) {
       id,
       label: label(canvas.label, id),
       thumbnail,
+      imageServiceId: imageServiceIdFromCanvas(canvas) || imageServiceIdFromImageUrl(thumbnail),
     };
   });
+}
+
+function firstServiceId(service) {
+  const s = Array.isArray(service) ? service[0] : service;
+  return s ? s.id || s["@id"] || null : null;
+}
+
+// The IIIF Image Service behind a canvas's first painting annotation (v3 or v2).
+function imageServiceIdFromCanvas(canvas) {
+  const v3Body = canvas.items?.[0]?.items?.[0]?.body;
+  if (v3Body) return firstServiceId(v3Body.service);
+  const v2Resource = canvas.images?.[0]?.resource;
+  if (v2Resource) return firstServiceId(v2Resource.service);
+  return null;
+}
+
+// Fallback for canvases we only know by a thumbnail URL (e.g. the compound-object
+// cache files): an Image API URL is {service}/{region}/{size}/{rotation}/{quality}.{format},
+// so stripping the last four segments gives the service id.
+function imageServiceIdFromImageUrl(url) {
+  if (!url) return null;
+  const match = url.match(/^(.+)\/[^/]+\/[^/]+\/!?\d+(?:\.\d+)?\/[a-z]+\.[a-z0-9]+$/i);
+  return match ? match[1] : null;
+}
+
+function normalizeServiceId(id) {
+  return id ? id.replace(/\/info\.json$/, "").replace(/\/+$/, "") : id;
 }
 
 // --- Allmaps Annotations API ---
@@ -97,9 +126,21 @@ function canvasAndManifestIdFromAnnotation(annotation) {
   return { canvasId: canvas?.id, manifestId: canvas?.partOf?.[0]?.id };
 }
 
+// Georeference Annotations only MAY carry `partOf` (IIIF Georeference Extension §3.3),
+// so a perfectly valid annotation can target a bare Image Service with no canvas or
+// manifest context. Those are matched on the image service id instead.
+function imageServiceIdFromAnnotation(annotation) {
+  const source = annotation.target?.source;
+  if (!source || typeof source !== "object") return null;
+  const type = source.type || source["@type"] || "";
+  return type.startsWith("ImageService") ? normalizeServiceId(source.id || source["@id"]) : null;
+}
+
 async function fetchGeoreferencedMapsForDomain(domain) {
   // canvasId -> { annotationId, manifestId }
   const result = new Map();
+  // imageServiceId -> { annotationId }
+  const byImageServiceId = new Map();
   const seenAnnotationIds = new Set();
   let modifiedBefore = null;
   const LIMIT = 200;
@@ -117,14 +158,57 @@ async function fetchGeoreferencedMapsForDomain(domain) {
       seenAnnotationIds.add(annotation.id);
       const { canvasId, manifestId } = canvasAndManifestIdFromAnnotation(annotation);
       if (canvasId) result.set(canvasId, { annotationId: annotation.id, manifestId });
+      const serviceId = imageServiceIdFromAnnotation(annotation);
+      if (serviceId) byImageServiceId.set(serviceId, { annotationId: annotation.id });
     }
 
     if (items.length < LIMIT) break;
     modifiedBefore = items[items.length - 1].modified;
   }
 
-  return result;
+  return { byCanvasId: result, byImageServiceId };
 }
+
+// Allmaps ids are the first 16 hex chars of the SHA-1 of the resource URL.
+function allmapsId(url) {
+  return createHash("sha1").update(url).digest("hex").slice(0, 16);
+}
+
+// Annotations without `partOf` may not show up in the manifestDomain listing at all,
+// so for canvases nothing else matched, ask Allmaps about the image directly.
+// Results are memoized per run (several collections share the same domain).
+const imageLookupCache = new Map();
+async function lookupAnnotationByImageService(serviceId) {
+  if (imageLookupCache.has(serviceId)) return imageLookupCache.get(serviceId);
+  let found = null;
+  try {
+    const res = await fetch(`https://annotations.allmaps.org/images/${allmapsId(serviceId)}`, {
+      headers: { Accept: "application/json" },
+    });
+    if (res.ok && (res.headers.get("content-type") || "").includes("json")) {
+      const body = await res.json();
+      const annotation = (body.items || [body]).find((a) => a?.type === "Annotation");
+      if (annotation) found = { annotationId: annotation.id };
+    } else if (res.status !== 404) {
+      console.warn(`  ! image lookup ${res.status} for ${serviceId}`);
+    }
+  } catch (err) {
+    console.warn(`  ! image lookup failed for ${serviceId}: ${err.message}`);
+  }
+  imageLookupCache.set(serviceId, found);
+  return found;
+}
+
+// Run async fn over items with a small concurrency limit (be polite to Allmaps).
+async function mapLimit(items, limit, fn) {
+  let next = 0;
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) await fn(items[next++]);
+  });
+  await Promise.all(workers);
+}
+
+const IMAGE_LOOKUP_CONCURRENCY = 8;
 
 // TAMU's "compound object" items (behavior: ["individuals"], e.g. multi-sheet
 // folios) return a stub with no `items` at /metadata/iiifmanifest/default.jsonld.
@@ -138,14 +222,17 @@ function isLikelyCompoundStub(manifest, canvases) {
   return canvases.length === 0 && (manifest.behavior || []).includes("individuals");
 }
 
-async function buildManifestRecord(manifestRef, georeferencedByCanvasId, existingManifest, compoundCanvasesByManifestId) {
+async function buildManifestRecord(manifestRef, georeferenced, existingManifest, compoundCanvasesByManifestId) {
   console.log(`  manifest: ${manifestRef.label} (${manifestRef.id})`);
   const manifest = await fetchJson(manifestRef.id);
   let canvases = canvasesFromManifest(manifest);
   let incomplete = isLikelyCompoundStub(manifest, canvases);
 
   if (incomplete && compoundCanvasesByManifestId?.has(manifestRef.id)) {
-    canvases = compoundCanvasesByManifestId.get(manifestRef.id);
+    canvases = compoundCanvasesByManifestId.get(manifestRef.id).map((canvas) => ({
+      ...canvas,
+      imageServiceId: canvas.imageServiceId || imageServiceIdFromImageUrl(canvas.thumbnail),
+    }));
     incomplete = false;
   } else if (incomplete) {
     console.warn(`  ! ${manifestRef.label}: compound object, canvases not retrievable without a browser (see README)`);
@@ -153,15 +240,35 @@ async function buildManifestRecord(manifestRef, georeferencedByCanvasId, existin
 
   const existingCanvasesById = new Map((existingManifest?.canvases || []).map((c) => [c.id, c]));
 
+  // Match order: canvas id (annotation has partOf) -> image service id seen in the
+  // domain listing -> direct per-image lookup against Allmaps.
+  const matches = new Map();
+  const unmatched = [];
+  for (const canvas of canvases) {
+    const serviceId = normalizeServiceId(canvas.imageServiceId);
+    const match =
+      georeferenced.byCanvasId.get(canvas.id) || (serviceId && georeferenced.byImageServiceId.get(serviceId));
+    if (match) matches.set(canvas.id, match);
+    else if (canvas.imageServiceId) unmatched.push(canvas);
+  }
+  await mapLimit(unmatched, IMAGE_LOOKUP_CONCURRENCY, async (canvas) => {
+    const match = await lookupAnnotationByImageService(canvas.imageServiceId);
+    if (match) {
+      matches.set(canvas.id, match);
+      console.log(`    matched by image service (no partOf): ${canvas.label}`);
+    }
+  });
+
   const mergedCanvases = canvases.map((canvas) => {
     const existing = existingCanvasesById.get(canvas.id);
-    const georeferenced = georeferencedByCanvasId.get(canvas.id);
+    const match = matches.get(canvas.id);
     return {
       id: canvas.id,
       label: canvas.label,
       thumbnail: canvas.thumbnail,
-      georeferenced: Boolean(georeferenced),
-      annotationId: georeferenced?.annotationId ?? null,
+      imageServiceId: canvas.imageServiceId ?? null,
+      georeferenced: Boolean(match),
+      annotationId: match?.annotationId ?? null,
       // hasMap is human-curated: preserve whatever was already recorded, default to null (unreviewed).
       hasMap: existing ? existing.hasMap : null,
       notes: existing?.notes || "",
@@ -206,6 +313,7 @@ async function main() {
   const existingCollectionsById = new Map((existingStatus.collections || []).map((c) => [c.id, c]));
 
   const collections = [];
+  const georeferencedByDomain = new Map(); // several sources usually share one domain
 
   for (const source of sources) {
     console.log(`collection/source: ${source.label} (${source.id})`);
@@ -223,15 +331,18 @@ async function main() {
     const compoundCanvasesByManifestId = await loadCompoundCanvases(source);
 
     const domain = source.annotationsDomain || new URL(source.url).hostname;
-    console.log(`  fetching georeferenced maps for domain ${domain} ...`);
-    const georeferencedByCanvasId = await fetchGeoreferencedMapsForDomain(domain);
-    console.log(`  found ${georeferencedByCanvasId.size} georeferenced canvases on ${domain}`);
+    if (!georeferencedByDomain.has(domain)) {
+      console.log(`  fetching georeferenced maps for domain ${domain} ...`);
+      georeferencedByDomain.set(domain, await fetchGeoreferencedMapsForDomain(domain));
+    }
+    const georeferenced = georeferencedByDomain.get(domain);
+    console.log(`  found ${georeferenced.byCanvasId.size} canvas-linked + ${georeferenced.byImageServiceId.size} image-linked annotations on ${domain}`);
 
     const manifests = [];
     for (const ref of manifestRefs) {
       try {
         manifests.push(
-          await buildManifestRecord(ref, georeferencedByCanvasId, existingManifestsById.get(ref.id), compoundCanvasesByManifestId)
+          await buildManifestRecord(ref, georeferenced, existingManifestsById.get(ref.id), compoundCanvasesByManifestId)
         );
       } catch (err) {
         console.warn(`  ! skipping manifest ${ref.id}: ${err.message}`);
