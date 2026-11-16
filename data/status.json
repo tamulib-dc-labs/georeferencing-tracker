@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:18:22.994Z",
+  "generatedAt": "2026-11-16T16:56:55.058Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -5978,8 +5978,8 @@
               "label": "Recto",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/4f4%2Fimage-g6197-r8-1619-m47-a-b15da086-3fee-4e2e-8112-175a6bda48fd.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/4f4%2Fimage-g6197-r8-1619-m47-a-b15da086-3fee-4e2e-8112-175a6bda48fd.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/3e6c94b61876870c",
               "hasMap": null,
               "notes": ""
             },
@@ -6741,7 +6741,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/bd6%2Fimage-g5833-b55-1598-o77a-b07a1ed1-ad44-41f7-ac01-4a860891dcd0.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/bd6%2Fimage-g5833-b55-1598-o77a-b07a1ed1-ad44-41f7-ac01-4a860891dcd0.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/205ba2ef81cd3254",
+              "annotationId": "https://annotations.allmaps.org/maps/051a700f6ecf7f14",
               "hasMap": null,
               "notes": ""
             },
@@ -8797,7 +8797,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1496f2ea36dc2f46",
+              "annotationId": "https://annotations.allmaps.org/maps/83d22152cea5ce1a",
               "hasMap": null,
               "notes": ""
             },
@@ -10397,7 +10397,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c40%2Fimage-service-maps-0078-0001-90e5f894-96d1-4971-a09f-5b6de4f69a46.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c40%2Fimage-service-maps-0078-0001-90e5f894-96d1-4971-a09f-5b6de4f69a46.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/7a30fbf7bcf077cb",
+              "annotationId": "https://annotations.allmaps.org/maps/d119fa06589ebcff",
               "hasMap": null,
               "notes": ""
             },
@@ -10777,7 +10777,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/827197020a18c4bb",
+              "annotationId": "https://annotations.allmaps.org/maps/5268a0531474af13",
               "hasMap": true,
               "notes": ""
             }
@@ -10838,7 +10838,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/7904a5bc3bd54168",
+              "annotationId": "https://annotations.allmaps.org/maps/f525713ccf568d47",
               "hasMap": null,
               "notes": ""
             }
@@ -12205,7 +12205,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/bde%2Fimage-5680176-2c7336f1-d530-47c1-95a4-848ad0c76f9e.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/bde%2Fimage-5680176-2c7336f1-d530-47c1-95a4-848ad0c76f9e.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/9edbe90f3c553b18",
+              "annotationId": "https://annotations.allmaps.org/maps/c10380fa68d3cc4b",
               "hasMap": true,
               "notes": ""
             }
@@ -12732,8 +12732,8 @@
               "label": "1 of 3 images: Texas",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c4b%2Fimage-6441913-a-75b8be90-2e55-417f-86e4-cc6179707c11.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c4b%2Fimage-6441913-a-75b8be90-2e55-417f-86e4-cc6179707c11.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/61bf52c9291a4643",
               "hasMap": null,
               "notes": ""
             },
@@ -12813,8 +12813,8 @@
               "label": "2 of 2 images: Texas: observations, historical, geographical and descriptive : in a series of letters, written during a visit to Austin's colony, with a view to a permanent settlement in that country, in the Autumn of 1831",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/9d2%2Fimage-4899198-2-c7c4ec39-5458-4913-b370-7141285fc7ce.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/9d2%2Fimage-4899198-2-c7c4ec39-5458-4913-b370-7141285fc7ce.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/7884ebd0238e14a9",
               "hasMap": null,
               "notes": ""
             }
@@ -12830,8 +12830,8 @@
               "label": "1 of 2 images: Texas: the rise, progress, and prospects of the Republic of Texas",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/696%2Fimage-in00001120788-0001-2993d1f2-684c-4b2f-a59d-d19ca75d0353.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/696%2Fimage-in00001120788-0001-2993d1f2-684c-4b2f-a59d-d19ca75d0353.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/6573068b25c1549b",
               "hasMap": null,
               "notes": ""
             },
@@ -13138,8 +13138,8 @@
               "label": "Page 14 of Aberdeen-Redfield folio: Northville, Aberdeen, Redfield, and Byron quadrangles, South Dakota",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/287%2Fimage-165page14-4f842ca2-a4fb-487d-a401-f67a0fdb5ed3.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/287%2Fimage-165page14-4f842ca2-a4fb-487d-a401-f67a0fdb5ed3.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/78d0ec86b068df0d",
               "hasMap": null,
               "notes": ""
             },
@@ -13148,8 +13148,8 @@
               "label": "Page 15 of Aberdeen-Redfield folio: Northville, Aberdeen, Redfield, and Byron quadrangles, South Dakota",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/552%2Fimage-165page15-f24dd28c-6653-4b55-b197-9015d078f5b3.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/552%2Fimage-165page15-f24dd28c-6653-4b55-b197-9015d078f5b3.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/dad9632ca21eda7b",
               "hasMap": null,
               "notes": ""
             },
@@ -13158,8 +13158,8 @@
               "label": "Page 16 of Aberdeen-Redfield folio: Northville, Aberdeen, Redfield, and Byron quadrangles, South Dakota",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/3a9%2Fimage-165page16-aa21f43d-69a2-4d9e-a54f-bc3ce25b57b7.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/3a9%2Fimage-165page16-aa21f43d-69a2-4d9e-a54f-bc3ce25b57b7.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/14df68c3831ad0dd",
               "hasMap": null,
               "notes": ""
             },
@@ -13168,8 +13168,8 @@
               "label": "Page 17 of Aberdeen-Redfield folio: Northville, Aberdeen, Redfield, and Byron quadrangles, South Dakota",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/2c0%2Fimage-165page17-45410738-6650-416c-970b-7eda2d6dee3f.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/2c0%2Fimage-165page17-45410738-6650-416c-970b-7eda2d6dee3f.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/03d4515c78ea6dee",
               "hasMap": null,
               "notes": ""
             },
@@ -13365,8 +13365,8 @@
               "label": "Page 7 of Absaroka folio, Crandall and Ishawooa quadrangles, Wyoming",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/773%2Fimage-052pg07-bdaf8159-d031-4545-b903-07980f75b1b1.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/773%2Fimage-052pg07-bdaf8159-d031-4545-b903-07980f75b1b1.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/fd27d61e88ccb87e",
               "hasMap": null,
               "notes": ""
             },
@@ -13375,8 +13375,8 @@
               "label": "Page 8 of Absaroka folio, Crandall and Ishawooa quadrangles, Wyoming",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/10e%2Fimage-052pg08-4c75a3e0-b9a2-43b0-88ed-ee86d9fe22af.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/10e%2Fimage-052pg08-4c75a3e0-b9a2-43b0-88ed-ee86d9fe22af.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/b1b63aaa0b222ad7",
               "hasMap": null,
               "notes": ""
             },
@@ -13819,8 +13819,8 @@
               "label": "Page 9 of Aladdin folio, Wyoming-South Dakota-Montana",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/cbd%2Fimage-128pg09-febc5ea6-e7f3-4c64-921c-146dc6624b22.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/cbd%2Fimage-128pg09-febc5ea6-e7f3-4c64-921c-146dc6624b22.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/933134eb54b38cbe",
               "hasMap": null,
               "notes": ""
             },
@@ -13829,8 +13829,8 @@
               "label": "Page 10 of Aladdin folio, Wyoming-South Dakota-Montana",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/3f4%2Fimage-128pg10-bc340c7f-103e-4776-a285-18a8f91f3762.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/3f4%2Fimage-128pg10-bc340c7f-103e-4776-a285-18a8f91f3762.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/80a8c8acb84c80bf",
               "hasMap": null,
               "notes": ""
             },
@@ -13839,8 +13839,8 @@
               "label": "Page 11 of Aladdin folio, Wyoming-South Dakota-Montana",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/3bc%2Fimage-128pg11-0e5a211a-caa9-4821-a57d-e0b538bcf1ea.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/3bc%2Fimage-128pg11-0e5a211a-caa9-4821-a57d-e0b538bcf1ea.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/32218a6f3f75a3a3",
               "hasMap": null,
               "notes": ""
             },
@@ -13849,8 +13849,8 @@
               "label": "Page 12 of Aladdin folio, Wyoming-South Dakota-Montana",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/424%2Fimage-128pg12-e3b3b162-692b-46cd-8250-fa467e875882.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/424%2Fimage-128pg12-e3b3b162-692b-46cd-8250-fa467e875882.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/dcde876bc55ef252",
               "hasMap": null,
               "notes": ""
             },
@@ -14617,8 +14617,8 @@
               "label": "Page 11 of Anthracite-Crested butte folio, Colorado",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/d03%2Fimage-009pg11-21b6c475-4fc9-4357-a4e0-e91b6aae278e.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/d03%2Fimage-009pg11-21b6c475-4fc9-4357-a4e0-e91b6aae278e.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/7499a217adebb7e0",
               "hasMap": null,
               "notes": ""
             },
@@ -61296,7 +61296,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/1ff%2Fimage-utf-8-map-cuba-cia-1977-1bb2c8cb-9c75-493a-a6f2-a84ac771d93e.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/1ff%2Fimage-utf-8-map-cuba-cia-1977-1bb2c8cb-9c75-493a-a6f2-a84ac771d93e.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/ce34ace066090d79",
+              "annotationId": "https://annotations.allmaps.org/maps/9c5c9e1abd0b8e68",
               "hasMap": null,
               "notes": ""
             }
@@ -61313,7 +61313,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/f52%2Fimage-utf-8-map-cuba-rand-1905-5d35d759-ebc9-4f0f-a281-d0ac1468f336.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/f52%2Fimage-utf-8-map-cuba-rand-1905-5d35d759-ebc9-4f0f-a281-d0ac1468f336.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/e47600fd77709b25",
+              "annotationId": "https://annotations.allmaps.org/maps/711da896bb400965",
               "hasMap": null,
               "notes": ""
             }
@@ -61347,7 +61347,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/520%2Fimage-utf-8-map-cuba-rand-1898-52a8de0f-f05d-44c1-b5f3-8713ccac251f.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/520%2Fimage-utf-8-map-cuba-rand-1898-52a8de0f-f05d-44c1-b5f3-8713ccac251f.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/7738fb0037e757cd",
+              "annotationId": "https://annotations.allmaps.org/maps/045fcb2c11135823",
               "hasMap": null,
               "notes": ""
             }
@@ -61398,7 +61398,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/cdc%2Fimage-utf-8-colton-1856-cuba-4bea1b17-0d53-437d-ab0d-2cb7bf4ff57b.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/cdc%2Fimage-utf-8-colton-1856-cuba-4bea1b17-0d53-437d-ab0d-2cb7bf4ff57b.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/2d55bbc3184cea12",
+              "annotationId": "https://annotations.allmaps.org/maps/ab14964c03ad28dc",
               "hasMap": null,
               "notes": ""
             },
@@ -61442,7 +61442,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1333d6ab3d9e085a",
+              "annotationId": "https://annotations.allmaps.org/maps/3ed72247f64a736e",
               "hasMap": null,
               "notes": ""
             }
@@ -61564,7 +61564,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/840%2Fimage-utf-8-kriegsschauplatzkarte-20cuba-d15a5e1e-10c2-4459-81a3-58289af40ab9.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/840%2Fimage-utf-8-kriegsschauplatzkarte-20cuba-d15a5e1e-10c2-4459-81a3-58289af40ab9.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/76310e40d1fdb384",
+              "annotationId": "https://annotations.allmaps.org/maps/5102bde456b77c0f",
               "hasMap": null,
               "notes": ""
             },
@@ -61627,7 +61627,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/2a474159539fe556",
+              "annotationId": "https://annotations.allmaps.org/maps/4191c8dc4b5902e3",
               "hasMap": null,
               "notes": ""
             }
@@ -62412,7 +62412,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1ff00900e4f0c32f",
+              "annotationId": "https://annotations.allmaps.org/maps/4907bc6c31ef47e2",
               "hasMap": null,
               "notes": ""
             },
@@ -62493,7 +62493,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/e1a%2Fimage-utf-8-map-cuba-official-war-map-1898-west-indies-be0b0ae4-bdc4-4aec-93da-7e96b5d687f1.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/e1a%2Fimage-utf-8-map-cuba-official-war-map-1898-west-indies-be0b0ae4-bdc4-4aec-93da-7e96b5d687f1.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/29b5a88a686d11c7",
+              "annotationId": "https://annotations.allmaps.org/maps/b4cb6504e76f95e6",
               "hasMap": null,
               "notes": ""
             }
@@ -64596,7 +64596,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/b502dcdbd1685e21",
+              "annotationId": "https://annotations.allmaps.org/maps/10c45c675a3d5107",
               "hasMap": null,
               "notes": ""
             },
@@ -65806,7 +65806,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/2d4c2e86a5ed0044",
+              "annotationId": "https://annotations.allmaps.org/maps/4baf04c2ac58c062",
               "hasMap": null,
               "notes": ""
             },
@@ -69472,7 +69472,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/f3f50a78e589754b",
+              "annotationId": "https://annotations.allmaps.org/maps/755cdce4cadd6d2c",
               "hasMap": null,
               "notes": ""
             },
