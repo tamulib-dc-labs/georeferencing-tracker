@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:02:17.003Z",
+  "generatedAt": "2026-11-23T19:08:38.252Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -8797,7 +8797,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/83d22152cea5ce1a",
+              "annotationId": "https://annotations.allmaps.org/maps/1496f2ea36dc2f46",
               "hasMap": null,
               "notes": ""
             },
@@ -10777,7 +10777,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/5268a0531474af13",
+              "annotationId": "https://annotations.allmaps.org/maps/ce32ae100e933a29",
               "hasMap": true,
               "notes": ""
             }
@@ -10838,7 +10838,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/f525713ccf568d47",
+              "annotationId": "https://annotations.allmaps.org/maps/fb22adbe988bc2a3",
               "hasMap": null,
               "notes": ""
             }
@@ -11750,7 +11750,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0a7%2Fimage-1607542-a-8cf2ec98-1b40-49a5-8339-101ba96580a0.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/0a7%2Fimage-1607542-a-8cf2ec98-1b40-49a5-8339-101ba96580a0.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/36cda482d9f723b1",
+              "annotationId": "https://annotations.allmaps.org/maps/5f08df6cfa4214f2",
               "hasMap": true,
               "notes": ""
             },
@@ -19788,8 +19788,8 @@
               "label": "Page 9 of Butte special folio, Montana.",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/7a8%2Fimage-038pg09-16212eca-4213-4ba2-9d76-45ad89df8067.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/7a8%2Fimage-038pg09-16212eca-4213-4ba2-9d76-45ad89df8067.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/5718c089f2ece835",
               "hasMap": null,
               "notes": ""
             },
@@ -61269,7 +61269,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/ae66bddeafd51f0a",
+              "annotationId": "https://annotations.allmaps.org/maps/3d3e361416d89f6c",
               "hasMap": null,
               "notes": ""
             },
@@ -65806,7 +65806,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/eb1%2Fimage-4004471-a-29c6ed2f-15d1-4d61-9326-287f449ada90.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/4baf04c2ac58c062",
+              "annotationId": "https://annotations.allmaps.org/maps/2d4c2e86a5ed0044",
               "hasMap": null,
               "notes": ""
             },
@@ -69472,7 +69472,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/755cdce4cadd6d2c",
+              "annotationId": "https://annotations.allmaps.org/maps/f3f50a78e589754b",
               "hasMap": null,
               "notes": ""
             },
