@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T19:08:38.252Z",
+  "generatedAt": "2026-11-25T17:56:53.178Z",
   "collections": [
     {
       "id": "woellhof-maps",
@@ -304,8 +304,8 @@
               "label": "Recto",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/9d9%2Fimage-g8220-1590-o77a-bda5059b-6317-469c-9c3c-3f7ee6861739.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/9d9%2Fimage-g8220-1590-o77a-bda5059b-6317-469c-9c3c-3f7ee6861739.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/13cddde3be2301ac",
               "hasMap": true,
               "notes": ""
             },
@@ -2379,7 +2379,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/87f%2Fimage-g5834-c3-1558-o77-1579a-13ea4a24-c724-40e1-b7fb-236cd0580849.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/87f%2Fimage-g5834-c3-1558-o77-1579a-13ea4a24-c724-40e1-b7fb-236cd0580849.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/b04c17ae9fde1054",
+              "annotationId": "https://annotations.allmaps.org/maps/a52d20432d8b798e",
               "hasMap": null,
               "notes": ""
             },
@@ -8797,7 +8797,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/422%2Fimage-g5754-y9-1618-b7a-edit-3cd32ffa-f45f-44b9-af98-177859676337.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/1496f2ea36dc2f46",
+              "annotationId": "https://annotations.allmaps.org/maps/83d22152cea5ce1a",
               "hasMap": null,
               "notes": ""
             },
@@ -9046,8 +9046,8 @@
               "label": "1109th Engr. Combat Group command posts, France - Germany, 17 June 1944 - 9 May 1945",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0019-0001-c3f74d5d-4387-427d-adec-3e2b30224a7d.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0019-0001-c3f74d5d-4387-427d-adec-3e2b30224a7d.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/d436fe9f9decc60f",
               "hasMap": null,
               "notes": ""
             }
@@ -9073,8 +9073,8 @@
               "label": "2 of 6 images: 1115th Engineer Combat Group operations from Omaha Beach to the Elbe River",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/d2a%2Fimage-service-maps-0088-0001-7c9a6cd5-a3bf-4c34-96ea-b63412fd861b.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/d2a%2Fimage-service-maps-0088-0001-7c9a6cd5-a3bf-4c34-96ea-b63412fd861b.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/9dacea3774402533",
               "hasMap": null,
               "notes": ""
             },
@@ -9083,8 +9083,8 @@
               "label": "3 of 6 images: 1115th Engineer Combat Group operations from Omaha Beach to the Elbe River",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/437%2Fimage-service-maps-0089-0001-1ae3e1bc-51ad-4591-8353-f4cd776c3ffe.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/437%2Fimage-service-maps-0089-0001-1ae3e1bc-51ad-4591-8353-f4cd776c3ffe.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/d45d8ac59a721bbb",
               "hasMap": null,
               "notes": ""
             },
@@ -9093,8 +9093,8 @@
               "label": "4 of 6 images: 1115th Engineer Combat Group operations from Omaha Beach to the Elbe River",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/e2e%2Fimage-service-maps-0090-0001-350ac4ff-3630-4375-b5a3-f1baf1a1f1f9.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/e2e%2Fimage-service-maps-0090-0001-350ac4ff-3630-4375-b5a3-f1baf1a1f1f9.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/e69275f9c825856b",
               "hasMap": null,
               "notes": ""
             },
@@ -9103,8 +9103,8 @@
               "label": "5 of 6 images: 1115th Engineer Combat Group operations from Omaha Beach to the Elbe River",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/f0e%2Fimage-service-maps-0091-0001-138f0342-d72c-4e97-a4db-01c10aa3cb88.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/f0e%2Fimage-service-maps-0091-0001-138f0342-d72c-4e97-a4db-01c10aa3cb88.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/2f69ec16c34b7ad4",
               "hasMap": null,
               "notes": ""
             },
@@ -9113,8 +9113,8 @@
               "label": "6 of 6 images: 1115th Engineer Combat Group operations from Omaha Beach to the Elbe River",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/66b%2Fimage-service-maps-0092-0001-2733709a-a8db-4482-95f6-457aaf7b891f.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/66b%2Fimage-service-maps-0092-0001-2733709a-a8db-4482-95f6-457aaf7b891f.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/f699ac389053cb7d",
               "hasMap": null,
               "notes": ""
             }
@@ -9242,8 +9242,8 @@
               "label": "215 F.A. Bn. combat diary, September 1945 - 1945 June",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/435%2Fimage-service-maps-0038-0001-b849d767-5db9-4038-a3f0-810e5a9690fc.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/435%2Fimage-service-maps-0038-0001-b849d767-5db9-4038-a3f0-810e5a9690fc.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/4bdd7c48b6016077",
               "hasMap": null,
               "notes": ""
             }
@@ -9610,7 +9610,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0011-0001-ba70f56d-c69c-4d80-bedb-09bf810b9336.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/167%2Fimage-service-maps-0011-0001-ba70f56d-c69c-4d80-bedb-09bf810b9336.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/3f35ccff815290f0",
+              "annotationId": "https://annotations.allmaps.org/maps/bc5db17bca88df0d",
               "hasMap": true,
               "notes": ""
             }
@@ -9809,8 +9809,8 @@
               "label": "Another year with the 951st, or, \"Like ah done tol' yu befo'\"",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/b29%2Fimage-service-maps-0059-0001-a0e86d98-c42e-41ab-bddd-d1665e78e7a8.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/b29%2Fimage-service-maps-0059-0001-a0e86d98-c42e-41ab-bddd-d1665e78e7a8.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/7eacc3f51be61482",
               "hasMap": true,
               "notes": ""
             }
@@ -10091,8 +10091,8 @@
               "label": "III Corps campaigns",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/179%2Fimage-service-maps-0007-0001-65be1be5-e6b4-4b07-be60-69ac9f592280.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/179%2Fimage-service-maps-0007-0001-65be1be5-e6b4-4b07-be60-69ac9f592280.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/f0ca4fa6d24e132e",
               "hasMap": null,
               "notes": ""
             }
@@ -10377,7 +10377,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/d3d%2Fimage-service-maps-0076-0001-6b8b9c09-0e53-4aca-9106-5b066f23dc06.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/d3d%2Fimage-service-maps-0076-0001-6b8b9c09-0e53-4aca-9106-5b066f23dc06.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/e776d6759039dc2d",
+              "annotationId": "https://annotations.allmaps.org/maps/5b0e13d4b38a1a5e",
               "hasMap": null,
               "notes": ""
             },
@@ -10777,7 +10777,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/b20%2Fimage-service-maps-0014-0001-c541e075-3d5c-4ee9-a4d4-85e1beeb90f2.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/ce32ae100e933a29",
+              "annotationId": "https://annotations.allmaps.org/maps/5268a0531474af13",
               "hasMap": true,
               "notes": ""
             }
@@ -10838,7 +10838,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/c4d%2Fimage-service-maps-0133-0001-b1f32299-ff33-4e46-9cfc-0fadd21d8e22.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/fb22adbe988bc2a3",
+              "annotationId": "https://annotations.allmaps.org/maps/1d4ccf7614c0e23f",
               "hasMap": null,
               "notes": ""
             }
@@ -10915,8 +10915,8 @@
               "label": "The trek of the 5th Armored",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/839%2Fimage-service-maps-0068-0001-affd0eb7-0eb3-48f0-8a64-e91b6fb97383.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/839%2Fimage-service-maps-0068-0001-affd0eb7-0eb3-48f0-8a64-e91b6fb97383.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/90fd62565550ffb7",
               "hasMap": null,
               "notes": ""
             }
@@ -11010,8 +11010,8 @@
               "label": "Travels of 70th A.I.B., 20th A.D.",
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/827%2Fimage-service-maps-0036-0001-679b8b30-c76c-4b86-8746-53d5f59f16ec.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/827%2Fimage-service-maps-0036-0001-679b8b30-c76c-4b86-8746-53d5f59f16ec.jp2",
-              "georeferenced": false,
-              "annotationId": null,
+              "georeferenced": true,
+              "annotationId": "https://annotations.allmaps.org/maps/caedf6e4c3957c00",
               "hasMap": null,
               "notes": ""
             }
@@ -12381,7 +12381,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/014%2Fimage-6275054-6a1d3ff3-5888-4da3-88a7-65e805900d6c.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/014%2Fimage-6275054-6a1d3ff3-5888-4da3-88a7-65e805900d6c.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/67027b2af45dbea3",
+              "annotationId": "https://annotations.allmaps.org/maps/c0e90c852bc34a8d",
               "hasMap": true,
               "notes": ""
             }
@@ -12568,7 +12568,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/789%2Fimage-5828242-56164129-f472-43ba-822b-6954fa0e66be.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/789%2Fimage-5828242-56164129-f472-43ba-822b-6954fa0e66be.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/ec864a30aeaea4ca",
+              "annotationId": "https://annotations.allmaps.org/maps/88a991f89ef039b6",
               "hasMap": true,
               "notes": ""
             }
@@ -61269,7 +61269,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/445%2Fimage-utf-8-map-cuba-cia-1992a-front-801755-327900b6-7045-4b77-a25e-1090f7432ad8.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/3d3e361416d89f6c",
+              "annotationId": "https://annotations.allmaps.org/maps/b13e79e526da3edb",
               "hasMap": null,
               "notes": ""
             },
@@ -61296,7 +61296,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/1ff%2Fimage-utf-8-map-cuba-cia-1977-1bb2c8cb-9c75-493a-a6f2-a84ac771d93e.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/1ff%2Fimage-utf-8-map-cuba-cia-1977-1bb2c8cb-9c75-493a-a6f2-a84ac771d93e.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/9c5c9e1abd0b8e68",
+              "annotationId": "https://annotations.allmaps.org/maps/c0e3614c4d1e65c9",
               "hasMap": null,
               "notes": ""
             }
@@ -61347,7 +61347,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/520%2Fimage-utf-8-map-cuba-rand-1898-52a8de0f-f05d-44c1-b5f3-8713ccac251f.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/520%2Fimage-utf-8-map-cuba-rand-1898-52a8de0f-f05d-44c1-b5f3-8713ccac251f.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/045fcb2c11135823",
+              "annotationId": "https://annotations.allmaps.org/maps/7738fb0037e757cd",
               "hasMap": null,
               "notes": ""
             }
@@ -61442,7 +61442,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/fb4%2Fimage-utf-8-map-cuba-cia-1969-317b4220-700a-4966-a584-43f2f9af9e49.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/3ed72247f64a736e",
+              "annotationId": "https://annotations.allmaps.org/maps/89136353b98fb223",
               "hasMap": null,
               "notes": ""
             }
@@ -61564,7 +61564,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/840%2Fimage-utf-8-kriegsschauplatzkarte-20cuba-d15a5e1e-10c2-4459-81a3-58289af40ab9.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/840%2Fimage-utf-8-kriegsschauplatzkarte-20cuba-d15a5e1e-10c2-4459-81a3-58289af40ab9.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/5102bde456b77c0f",
+              "annotationId": "https://annotations.allmaps.org/maps/76310e40d1fdb384",
               "hasMap": null,
               "notes": ""
             },
@@ -61627,7 +61627,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/ee8%2Fimage-utf-8-map-cuba-colton-1898-93090cce-9928-4a49-865f-68388a3b39e7.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/4191c8dc4b5902e3",
+              "annotationId": "https://annotations.allmaps.org/maps/cde1ce159bd3d896",
               "hasMap": null,
               "notes": ""
             }
@@ -62412,7 +62412,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/0f6%2Fimage-utf-8-map-cuba-esso-1956-front-e81c5803-96e5-4687-bb81-6b8e9af39d42.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/4907bc6c31ef47e2",
+              "annotationId": "https://annotations.allmaps.org/maps/1ff00900e4f0c32f",
               "hasMap": null,
               "notes": ""
             },
@@ -62493,7 +62493,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/e1a%2Fimage-utf-8-map-cuba-official-war-map-1898-west-indies-be0b0ae4-bdc4-4aec-93da-7e96b5d687f1.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/e1a%2Fimage-utf-8-map-cuba-official-war-map-1898-west-indies-be0b0ae4-bdc4-4aec-93da-7e96b5d687f1.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/b4cb6504e76f95e6",
+              "annotationId": "https://annotations.allmaps.org/maps/ef2b2664a6101def",
               "hasMap": null,
               "notes": ""
             }
@@ -64596,7 +64596,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/240%2Fimage-5386735-a-f3a80cda-f934-44c5-8ea6-76c793ed5d19.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/10c45c675a3d5107",
+              "annotationId": "https://annotations.allmaps.org/maps/1318915aecc9b561",
               "hasMap": null,
               "notes": ""
             },
@@ -65833,7 +65833,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/7c9%2Fimage-5376556-a-6027d110-faf5-4eaf-96a0-9ccc3855c675.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/7c9%2Fimage-5376556-a-6027d110-faf5-4eaf-96a0-9ccc3855c675.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/77d618b0e3590e89",
+              "annotationId": "https://annotations.allmaps.org/maps/fcc3647e3a02c4b2",
               "hasMap": true,
               "notes": ""
             },
@@ -69472,7 +69472,7 @@
               "thumbnail": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2/full/240,/0/default.jpg",
               "imageServiceId": "https://digitalcollections.library.tamu.edu/iiif/2/54f%2Fimage-londonmaps-3736659-03-fa5d40ff-12e1-45ab-b24b-a5a6e58cab58.jp2",
               "georeferenced": true,
-              "annotationId": "https://annotations.allmaps.org/maps/f3f50a78e589754b",
+              "annotationId": "https://annotations.allmaps.org/maps/755cdce4cadd6d2c",
               "hasMap": null,
               "notes": ""
             },
